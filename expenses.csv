@@ -1,0 +1,1671 @@
+date,item,vendor,qty,unit_price
+2025-01-01,Roma tomatoes,FreshFarm Produce,9,1.23
+2025-01-01,Heavy cream pints,Meadow Dairy,6,3.91
+2025-01-01,Olive oil 1L,Mediterranean Oils Co,2,18.12
+2025-01-01,Sourdough loaves,Dawn Bakery,4,4.00
+2025-01-02,Basil bunches,GreenLeaf Herbs,7,2.42
+2025-01-02,Sourdough loaves,Dawn Bakery,9,4.04
+2025-01-03,Sourdough loaves,Dawn Bakery,10,4.14
+2025-01-03,Chicken breasts 5lb,Hillside Poultry,2,15.14
+2025-01-03,Basil bunches,GreenLeaf Herbs,5,2.44
+2025-01-03,Heavy cream pints,Meadow Dairy,3,3.81
+2025-01-04,Roma tomatoes,FreshFarm Produce,13,1.22
+2025-01-04,Heavy cream pints,Meadow Dairy,2,3.89
+2025-01-04,Chicken breasts 5lb,Hillside Poultry,1,15.01
+2025-01-05,Roma tomatoes,FreshFarm Produce,13,1.28
+2025-01-05,Sourdough loaves,Dawn Bakery,9,4.14
+2025-01-05,Olive oil 1L,Mediterranean Oils Co,3,18.10
+2025-01-06,Olive oil 1L,Mediterranean Oils Co,1,18.97
+2025-01-06,Roma tomatoes,FreshFarm Produce,15,1.25
+2025-01-07,Olive oil 1L,Mediterranean Oils Co,2,18.25
+2025-01-07,Basil bunches,GreenLeaf Herbs,8,2.44
+2025-01-07,Heavy cream pints,Meadow Dairy,6,3.90
+2025-01-07,Sourdough loaves,Dawn Bakery,8,4.15
+2025-01-08,Basil bunches,GreenLeaf Herbs,8,2.38
+2025-01-08,Heavy cream pints,Meadow Dairy,3,3.91
+2025-01-08,Chicken breasts 5lb,Hillside Poultry,1,14.97
+2025-01-08,Sourdough loaves,Dawn Bakery,4,4.05
+2025-01-09,Chicken breasts 5lb,Hillside Poultry,3,14.55
+2025-01-09,Olive oil 1L,Mediterranean Oils Co,2,18.26
+2025-01-09,Roma tomatoes,FreshFarm Produce,15,1.25
+2025-01-10,Olive oil 1L,Mediterranean Oils Co,3,18.29
+2025-01-10,Basil bunches,GreenLeaf Herbs,8,2.42
+2025-01-11,Chicken breasts 5lb,Hillside Poultry,2,14.56
+2025-01-11,Sourdough loaves,Dawn Bakery,4,4.12
+2025-01-11,Heavy cream pints,Meadow Dairy,2,3.92
+2025-01-11,Basil bunches,GreenLeaf Herbs,4,2.36
+2025-01-12,Sourdough loaves,Dawn Bakery,7,4.09
+2025-01-12,Roma tomatoes,FreshFarm Produce,16,1.26
+2025-01-12,Chicken breasts 5lb,Hillside Poultry,1,15.13
+2025-01-13,Heavy cream pints,Meadow Dairy,4,3.83
+2025-01-13,Roma tomatoes,FreshFarm Produce,15,1.25
+2025-01-13,Olive oil 1L,Mediterranean Oils Co,3,18.02
+2025-01-13,Chicken breasts 5lb,Hillside Poultry,3,15.14
+2025-01-14,Basil bunches,GreenLeaf Herbs,8,2.38
+2025-01-14,Sourdough loaves,Dawn Bakery,5,4.12
+2025-01-14,Roma tomatoes,FreshFarm Produce,10,1.23
+2025-01-14,Olive oil 1L,Mediterranean Oils Co,3,18.62
+2025-01-15,Sourdough loaves,Dawn Bakery,4,4.11
+2025-01-15,Olive oil 1L,Mediterranean Oils Co,2,19.05
+2025-01-16,Roma tomatoes,FreshFarm Produce,9,1.28
+2025-01-16,Basil bunches,GreenLeaf Herbs,6,2.35
+2025-01-17,Sourdough loaves,Dawn Bakery,7,4.02
+2025-01-17,Basil bunches,GreenLeaf Herbs,4,2.47
+2025-01-18,Sourdough loaves,Dawn Bakery,8,4.23
+2025-01-18,Heavy cream pints,Meadow Dairy,3,3.92
+2025-01-18,Chicken breasts 5lb,Hillside Poultry,4,15.00
+2025-01-19,Olive oil 1L,Mediterranean Oils Co,1,18.29
+2025-01-19,Chicken breasts 5lb,Hillside Poultry,2,14.67
+2025-01-19,Sourdough loaves,Dawn Bakery,4,4.14
+2025-01-19,Roma tomatoes,FreshFarm Produce,8,1.22
+2025-01-20,Roma tomatoes,FreshFarm Produce,9,1.28
+2025-01-20,Heavy cream pints,Meadow Dairy,4,3.87
+2025-01-21,Chicken breasts 5lb,Hillside Poultry,4,15.19
+2025-01-21,Basil bunches,GreenLeaf Herbs,6,2.37
+2025-01-21,Sourdough loaves,Dawn Bakery,5,4.19
+2025-01-21,Olive oil 1L,Mediterranean Oils Co,3,18.12
+2025-01-22,Olive oil 1L,Mediterranean Oils Co,3,18.54
+2025-01-22,Chicken breasts 5lb,Hillside Poultry,1,14.41
+2025-01-22,Sourdough loaves,Dawn Bakery,9,4.01
+2025-01-23,Roma tomatoes,FreshFarm Produce,15,1.23
+2025-01-23,Basil bunches,GreenLeaf Herbs,4,2.36
+2025-01-23,Sourdough loaves,Dawn Bakery,5,4.06
+2025-01-24,Chicken breasts 5lb,Hillside Poultry,1,14.45
+2025-01-24,Sourdough loaves,Dawn Bakery,10,4.23
+2025-01-25,Basil bunches,GreenLeaf Herbs,4,2.41
+2025-01-25,Chicken breasts 5lb,Hillside Poultry,1,15.13
+2025-01-27,Chicken breasts 5lb,Hillside Poultry,4,15.19
+2025-01-27,Olive oil 1L,Mediterranean Oils Co,3,18.34
+2025-01-28,Sourdough loaves,Dawn Bakery,4,4.07
+2025-01-28,Chicken breasts 5lb,Hillside Poultry,1,14.88
+2025-01-28,Basil bunches,GreenLeaf Herbs,3,2.45
+2025-01-28,Roma tomatoes,FreshFarm Produce,15,1.22
+2025-01-29,Sourdough loaves,Dawn Bakery,5,4.01
+2025-01-29,Basil bunches,GreenLeaf Herbs,3,2.35
+2025-01-29,Roma tomatoes,FreshFarm Produce,11,1.27
+2025-01-29,Olive oil 1L,Mediterranean Oils Co,3,18.47
+2025-01-30,Sourdough loaves,Dawn Bakery,4,4.00
+2025-01-30,Heavy cream pints,Meadow Dairy,6,3.85
+2025-01-31,Sourdough loaves,Dawn Bakery,6,4.16
+2025-01-31,Olive oil 1L,Mediterranean Oils Co,2,18.28
+2025-01-31,Heavy cream pints,Meadow Dairy,4,3.78
+2025-01-31,Roma tomatoes,FreshFarm Produce,9,1.25
+2025-02-01,Chicken breasts 5lb,Hillside Poultry,1,15.31
+2025-02-01,Sourdough loaves,Dawn Bakery,5,4.03
+2025-02-03,Olive oil 1L,Mediterranean Oils Co,2,19.07
+2025-02-03,Roma tomatoes,FreshFarm Produce,15,1.24
+2025-02-04,Heavy cream pints,Meadow Dairy,4,3.95
+2025-02-04,Olive oil 1L,Mediterranean Oils Co,1,19.13
+2025-02-04,Roma tomatoes,FreshFarm Produce,10,1.29
+2025-02-04,Sourdough loaves,Dawn Bakery,4,4.07
+2025-02-05,Sourdough loaves,Dawn Bakery,9,4.16
+2025-02-05,Basil bunches,GreenLeaf Herbs,8,2.40
+2025-02-05,Olive oil 1L,Mediterranean Oils Co,2,18.80
+2025-02-05,Heavy cream pints,Meadow Dairy,4,3.88
+2025-02-06,Roma tomatoes,FreshFarm Produce,8,1.28
+2025-02-06,Chicken breasts 5lb,Hillside Poultry,2,14.43
+2025-02-07,Olive oil 1L,Mediterranean Oils Co,3,18.88
+2025-02-07,Basil bunches,GreenLeaf Herbs,3,2.35
+2025-02-07,Chicken breasts 5lb,Hillside Poultry,2,15.26
+2025-02-07,Heavy cream pints,Meadow Dairy,4,3.89
+2025-02-08,Sourdough loaves,Dawn Bakery,6,4.02
+2025-02-08,Basil bunches,GreenLeaf Herbs,3,2.48
+2025-02-08,Chicken breasts 5lb,Hillside Poultry,2,15.22
+2025-02-08,Roma tomatoes,FreshFarm Produce,9,1.27
+2025-02-10,Chicken breasts 5lb,Hillside Poultry,2,15.19
+2025-02-10,Sourdough loaves,Dawn Bakery,4,4.23
+2025-02-10,Basil bunches,GreenLeaf Herbs,5,2.37
+2025-02-10,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-02-11,Heavy cream pints,Meadow Dairy,2,3.95
+2025-02-11,Basil bunches,GreenLeaf Herbs,3,2.40
+2025-02-11,Olive oil 1L,Mediterranean Oils Co,1,19.05
+2025-02-11,Roma tomatoes,FreshFarm Produce,15,1.24
+2025-02-12,Olive oil 1L,Mediterranean Oils Co,1,18.12
+2025-02-12,Basil bunches,GreenLeaf Herbs,5,2.40
+2025-02-12,Sourdough loaves,Dawn Bakery,10,4.22
+2025-02-13,Olive oil 1L,Mediterranean Oils Co,3,18.85
+2025-02-13,Sourdough loaves,Dawn Bakery,4,4.09
+2025-02-13,Chicken breasts 5lb,Hillside Poultry,3,14.53
+2025-02-14,Sourdough loaves,Dawn Bakery,8,4.02
+2025-02-14,Olive oil 1L,Mediterranean Oils Co,3,18.58
+2025-02-15,Chicken breasts 5lb,Hillside Poultry,2,14.77
+2025-02-15,Sourdough loaves,Dawn Bakery,9,4.07
+2025-02-15,Roma tomatoes,FreshFarm Produce,16,1.26
+2025-02-16,Heavy cream pints,Meadow Dairy,4,3.78
+2025-02-16,Basil bunches,GreenLeaf Herbs,8,2.44
+2025-02-16,Olive oil 1L,Mediterranean Oils Co,3,19.03
+2025-02-16,Sourdough loaves,Dawn Bakery,8,4.23
+2025-02-17,Heavy cream pints,Meadow Dairy,4,3.86
+2025-02-17,Chicken breasts 5lb,Hillside Poultry,2,14.92
+2025-02-17,Olive oil 1L,Mediterranean Oils Co,2,18.56
+2025-02-18,Heavy cream pints,Meadow Dairy,2,3.89
+2025-02-18,Basil bunches,GreenLeaf Herbs,4,2.39
+2025-02-18,Olive oil 1L,Mediterranean Oils Co,3,18.57
+2025-02-18,Sourdough loaves,Dawn Bakery,6,4.16
+2025-02-19,Chicken breasts 5lb,Hillside Poultry,2,14.88
+2025-02-19,Heavy cream pints,Meadow Dairy,4,3.92
+2025-02-19,Basil bunches,GreenLeaf Herbs,8,2.42
+2025-02-20,Olive oil 1L,Mediterranean Oils Co,1,18.44
+2025-02-20,Roma tomatoes,FreshFarm Produce,8,1.23
+2025-02-20,Basil bunches,GreenLeaf Herbs,6,2.38
+2025-02-20,Heavy cream pints,Meadow Dairy,2,3.91
+2025-02-21,Chicken breasts 5lb,Hillside Poultry,4,15.06
+2025-02-21,Sourdough loaves,Dawn Bakery,5,4.13
+2025-02-21,Basil bunches,GreenLeaf Herbs,8,2.37
+2025-02-22,Roma tomatoes,FreshFarm Produce,16,1.24
+2025-02-22,Chicken breasts 5lb,Hillside Poultry,2,14.84
+2025-02-23,Chicken breasts 5lb,Hillside Poultry,3,15.13
+2025-02-23,Basil bunches,GreenLeaf Herbs,6,2.48
+2025-02-24,Heavy cream pints,Meadow Dairy,3,3.87
+2025-02-24,Sourdough loaves,Dawn Bakery,7,4.19
+2025-02-24,Chicken breasts 5lb,Hillside Poultry,2,14.82
+2025-02-24,Olive oil 1L,Mediterranean Oils Co,2,19.03
+2025-02-25,Chicken breasts 5lb,Hillside Poultry,3,14.49
+2025-02-25,Basil bunches,GreenLeaf Herbs,5,2.38
+2025-02-25,Olive oil 1L,Mediterranean Oils Co,3,18.45
+2025-02-25,Sourdough loaves,Dawn Bakery,5,4.03
+2025-02-26,Chicken breasts 5lb,Hillside Poultry,1,15.05
+2025-02-26,Basil bunches,GreenLeaf Herbs,5,2.41
+2025-02-27,Chicken breasts 5lb,Hillside Poultry,4,15.16
+2025-02-27,Heavy cream pints,Meadow Dairy,6,3.97
+2025-02-27,Roma tomatoes,FreshFarm Produce,8,1.29
+2025-02-27,Sourdough loaves,Dawn Bakery,10,4.22
+2025-02-28,Chicken breasts 5lb,Hillside Poultry,4,14.69
+2025-02-28,Heavy cream pints,Meadow Dairy,5,3.96
+2025-02-28,Roma tomatoes,FreshFarm Produce,16,1.26
+2025-02-28,Basil bunches,GreenLeaf Herbs,4,2.46
+2025-03-01,Basil bunches,GreenLeaf Herbs,6,2.43
+2025-03-01,Olive oil 1L,Mediterranean Oils Co,3,18.54
+2025-03-01,Chicken breasts 5lb,Hillside Poultry,2,15.19
+2025-03-02,Sourdough loaves,Dawn Bakery,7,4.03
+2025-03-02,Heavy cream pints,Meadow Dairy,2,3.92
+2025-03-03,Heavy cream pints,Meadow Dairy,5,3.81
+2025-03-03,Chicken breasts 5lb,Hillside Poultry,3,14.65
+2025-03-04,Olive oil 1L,Mediterranean Oils Co,2,18.53
+2025-03-04,Basil bunches,GreenLeaf Herbs,6,2.40
+2025-03-04,Chicken breasts 5lb,Hillside Poultry,1,14.71
+2025-03-05,Roma tomatoes,FreshFarm Produce,13,1.30
+2025-03-05,Sourdough loaves,Dawn Bakery,4,4.08
+2025-03-05,Heavy cream pints,Meadow Dairy,2,3.96
+2025-03-06,Basil bunches,GreenLeaf Herbs,7,2.48
+2025-03-06,Heavy cream pints,Meadow Dairy,3,3.82
+2025-03-07,Heavy cream pints,Meadow Dairy,4,3.89
+2025-03-07,Roma tomatoes,FreshFarm Produce,10,1.29
+2025-03-07,Basil bunches,GreenLeaf Herbs,8,2.44
+2025-03-08,Roma tomatoes,FreshFarm Produce,12,1.27
+2025-03-08,Basil bunches,GreenLeaf Herbs,6,2.44
+2025-03-08,Olive oil 1L,Mediterranean Oils Co,3,18.61
+2025-03-08,Heavy cream pints,Meadow Dairy,6,3.83
+2025-03-10,Basil bunches,GreenLeaf Herbs,3,2.44
+2025-03-10,Roma tomatoes,FreshFarm Produce,8,1.29
+2025-03-10,Olive oil 1L,Mediterranean Oils Co,2,18.55
+2025-03-10,Chicken breasts 5lb,Hillside Poultry,1,15.07
+2025-03-11,Heavy cream pints,Meadow Dairy,2,3.97
+2025-03-11,Olive oil 1L,Mediterranean Oils Co,2,18.65
+2025-03-11,Roma tomatoes,FreshFarm Produce,15,1.28
+2025-03-11,Basil bunches,GreenLeaf Herbs,6,2.46
+2025-03-12,Heavy cream pints,Meadow Dairy,4,4.00
+2025-03-12,Sourdough loaves,Dawn Bakery,8,4.18
+2025-03-13,Chicken breasts 5lb,Hillside Poultry,2,14.77
+2025-03-13,Heavy cream pints,Meadow Dairy,2,3.97
+2025-03-13,Olive oil 1L,Mediterranean Oils Co,2,18.48
+2025-03-14,Chicken breasts 5lb,Hillside Poultry,4,15.02
+2025-03-14,Sourdough loaves,Dawn Bakery,7,4.11
+2025-03-15,Basil bunches,GreenLeaf Herbs,5,2.41
+2025-03-15,Chicken breasts 5lb,Hillside Poultry,3,14.79
+2025-03-15,Heavy cream pints,Meadow Dairy,6,3.91
+2025-03-16,Basil bunches,GreenLeaf Herbs,4,2.43
+2025-03-16,Chicken breasts 5lb,Hillside Poultry,4,15.10
+2025-03-17,Roma tomatoes,FreshFarm Produce,11,1.24
+2025-03-17,Heavy cream pints,Meadow Dairy,6,3.85
+2025-03-17,Olive oil 1L,Mediterranean Oils Co,3,18.58
+2025-03-18,Olive oil 1L,Mediterranean Oils Co,2,18.95
+2025-03-18,Chicken breasts 5lb,Hillside Poultry,2,14.76
+2025-03-18,Heavy cream pints,Meadow Dairy,3,3.81
+2025-03-18,Basil bunches,GreenLeaf Herbs,8,2.40
+2025-03-19,Heavy cream pints,Meadow Dairy,4,3.95
+2025-03-19,Basil bunches,GreenLeaf Herbs,7,2.46
+2025-03-19,Sourdough loaves,Dawn Bakery,4,4.17
+2025-03-19,Roma tomatoes,FreshFarm Produce,12,1.29
+2025-03-20,Olive oil 1L,Mediterranean Oils Co,3,18.50
+2025-03-20,Basil bunches,GreenLeaf Herbs,5,2.43
+2025-03-21,Roma tomatoes,FreshFarm Produce,10,1.25
+2025-03-21,Sourdough loaves,Dawn Bakery,10,4.18
+2025-03-22,Roma tomatoes,FreshFarm Produce,15,1.26
+2025-03-22,Heavy cream pints,Meadow Dairy,2,3.86
+2025-03-22,Olive oil 1L,Mediterranean Oils Co,2,18.45
+2025-03-24,Chicken breasts 5lb,Hillside Poultry,1,14.55
+2025-03-24,Heavy cream pints,Meadow Dairy,6,3.82
+2025-03-25,Roma tomatoes,FreshFarm Produce,14,1.27
+2025-03-25,Basil bunches,GreenLeaf Herbs,7,2.44
+2025-03-25,Heavy cream pints,Meadow Dairy,6,3.83
+2025-03-26,Chicken breasts 5lb,Hillside Poultry,4,15.25
+2025-03-26,Heavy cream pints,Meadow Dairy,6,3.85
+2025-03-26,Olive oil 1L,Mediterranean Oils Co,3,18.23
+2025-03-27,Basil bunches,GreenLeaf Herbs,3,2.39
+2025-03-27,Heavy cream pints,Meadow Dairy,3,3.82
+2025-03-28,Roma tomatoes,FreshFarm Produce,15,1.26
+2025-03-28,Basil bunches,GreenLeaf Herbs,4,2.40
+2025-03-28,Heavy cream pints,Meadow Dairy,4,3.85
+2025-03-28,Sourdough loaves,Dawn Bakery,7,4.20
+2025-03-29,Heavy cream pints,Meadow Dairy,6,3.99
+2025-03-29,Basil bunches,GreenLeaf Herbs,4,2.45
+2025-03-31,Basil bunches,GreenLeaf Herbs,4,2.37
+2025-03-31,Heavy cream pints,Meadow Dairy,6,3.96
+2025-03-31,Olive oil 1L,Mediterranean Oils Co,3,19.00
+2025-03-31,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-04-01,Chicken breasts 5lb,Hillside Poultry,3,15.16
+2025-04-01,Olive oil 1L,Mediterranean Oils Co,2,18.80
+2025-04-02,Roma tomatoes,FreshFarm Produce,13,1.30
+2025-04-02,Sourdough loaves,Dawn Bakery,4,4.19
+2025-04-02,Heavy cream pints,Meadow Dairy,6,3.82
+2025-04-03,Roma tomatoes,FreshFarm Produce,15,1.27
+2025-04-03,Olive oil 1L,Mediterranean Oils Co,1,19.26
+2025-04-03,Heavy cream pints,Meadow Dairy,5,4.03
+2025-04-03,Chicken breasts 5lb,Hillside Poultry,4,15.11
+2025-04-04,Chicken breasts 5lb,Hillside Poultry,3,14.90
+2025-04-04,Olive oil 1L,Mediterranean Oils Co,1,18.98
+2025-04-05,Chicken breasts 5lb,Hillside Poultry,4,15.13
+2025-04-05,Heavy cream pints,Meadow Dairy,6,3.98
+2025-04-05,Olive oil 1L,Mediterranean Oils Co,1,18.28
+2025-04-07,Roma tomatoes,FreshFarm Produce,16,1.28
+2025-04-07,Chicken breasts 5lb,Hillside Poultry,1,14.95
+2025-04-07,Heavy cream pints,Meadow Dairy,4,3.84
+2025-04-08,Chicken breasts 5lb,Hillside Poultry,2,14.78
+2025-04-08,Heavy cream pints,Meadow Dairy,5,4.01
+2025-04-08,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-04-08,Sourdough loaves,Dawn Bakery,9,4.07
+2025-04-09,Basil bunches,GreenLeaf Herbs,6,2.37
+2025-04-09,Heavy cream pints,Meadow Dairy,2,3.82
+2025-04-09,Olive oil 1L,Mediterranean Oils Co,1,18.75
+2025-04-09,Chicken breasts 5lb,Hillside Poultry,2,15.12
+2025-04-10,Heavy cream pints,Meadow Dairy,5,3.89
+2025-04-10,Olive oil 1L,Mediterranean Oils Co,1,19.33
+2025-04-10,Sourdough loaves,Dawn Bakery,5,4.15
+2025-04-11,Basil bunches,GreenLeaf Herbs,5,2.49
+2025-04-11,Sourdough loaves,Dawn Bakery,10,4.23
+2025-04-11,Heavy cream pints,Meadow Dairy,6,3.89
+2025-04-12,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-04-12,Olive oil 1L,Mediterranean Oils Co,2,19.20
+2025-04-12,Sourdough loaves,Dawn Bakery,6,4.18
+2025-04-14,Chicken breasts 5lb,Hillside Poultry,2,15.41
+2025-04-14,Heavy cream pints,Meadow Dairy,3,3.93
+2025-04-14,Olive oil 1L,Mediterranean Oils Co,2,19.19
+2025-04-14,Roma tomatoes,FreshFarm Produce,15,1.24
+2025-04-15,Chicken breasts 5lb,Hillside Poultry,2,15.40
+2025-04-15,Heavy cream pints,Meadow Dairy,6,3.91
+2025-04-15,Basil bunches,GreenLeaf Herbs,3,2.41
+2025-04-15,Sourdough loaves,Dawn Bakery,7,4.26
+2025-04-16,Sourdough loaves,Dawn Bakery,5,4.05
+2025-04-16,Chicken breasts 5lb,Hillside Poultry,2,14.91
+2025-04-17,Chicken breasts 5lb,Hillside Poultry,4,14.84
+2025-04-17,Olive oil 1L,Mediterranean Oils Co,2,18.96
+2025-04-18,Sourdough loaves,Dawn Bakery,10,4.22
+2025-04-18,Chicken breasts 5lb,Hillside Poultry,1,14.98
+2025-04-18,Olive oil 1L,Mediterranean Oils Co,1,18.93
+2025-04-18,Heavy cream pints,Meadow Dairy,4,3.94
+2025-04-19,Heavy cream pints,Meadow Dairy,2,3.90
+2025-04-19,Roma tomatoes,FreshFarm Produce,9,1.29
+2025-04-21,Olive oil 1L,Mediterranean Oils Co,2,19.12
+2025-04-21,Roma tomatoes,FreshFarm Produce,14,1.26
+2025-04-21,Sourdough loaves,Dawn Bakery,8,4.08
+2025-04-21,Basil bunches,GreenLeaf Herbs,8,2.43
+2025-04-22,Basil bunches,GreenLeaf Herbs,6,2.38
+2025-04-22,Heavy cream pints,Meadow Dairy,3,3.94
+2025-04-23,Sourdough loaves,Dawn Bakery,6,4.16
+2025-04-23,Basil bunches,GreenLeaf Herbs,8,2.43
+2025-04-23,Heavy cream pints,Meadow Dairy,5,3.80
+2025-04-24,Heavy cream pints,Meadow Dairy,4,3.81
+2025-04-24,Sourdough loaves,Dawn Bakery,6,4.29
+2025-04-24,Basil bunches,GreenLeaf Herbs,6,2.46
+2025-04-25,Olive oil 1L,Mediterranean Oils Co,2,19.35
+2025-04-25,Chicken breasts 5lb,Hillside Poultry,4,14.64
+2025-04-25,Heavy cream pints,Meadow Dairy,6,3.93
+2025-04-25,Roma tomatoes,FreshFarm Produce,12,1.25
+2025-04-26,Heavy cream pints,Meadow Dairy,6,3.86
+2025-04-26,Chicken breasts 5lb,Hillside Poultry,1,15.31
+2025-04-27,Chicken breasts 5lb,Hillside Poultry,2,15.25
+2025-04-27,Olive oil 1L,Mediterranean Oils Co,3,18.95
+2025-04-27,Basil bunches,GreenLeaf Herbs,8,2.40
+2025-04-27,Sourdough loaves,Dawn Bakery,9,4.23
+2025-04-28,Heavy cream pints,Meadow Dairy,2,4.00
+2025-04-28,Roma tomatoes,FreshFarm Produce,15,1.26
+2025-04-29,Sourdough loaves,Dawn Bakery,4,4.22
+2025-04-29,Olive oil 1L,Mediterranean Oils Co,2,19.25
+2025-04-30,Chicken breasts 5lb,Hillside Poultry,3,15.24
+2025-04-30,Basil bunches,GreenLeaf Herbs,5,2.44
+2025-04-30,Sourdough loaves,Dawn Bakery,6,4.25
+2025-04-30,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-05-01,Heavy cream pints,Meadow Dairy,2,3.92
+2025-05-01,Olive oil 1L,Mediterranean Oils Co,1,18.47
+2025-05-01,Roma tomatoes,FreshFarm Produce,14,1.30
+2025-05-02,Olive oil 1L,Mediterranean Oils Co,1,18.61
+2025-05-02,Roma tomatoes,FreshFarm Produce,12,1.27
+2025-05-02,Chicken breasts 5lb,Hillside Poultry,3,15.12
+2025-05-02,Sourdough loaves,Dawn Bakery,5,4.09
+2025-05-03,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-05-03,Sourdough loaves,Dawn Bakery,9,4.22
+2025-05-03,Olive oil 1L,Mediterranean Oils Co,3,19.23
+2025-05-05,Roma tomatoes,FreshFarm Produce,12,1.31
+2025-05-05,Basil bunches,GreenLeaf Herbs,3,2.52
+2025-05-05,Heavy cream pints,Meadow Dairy,6,3.83
+2025-05-06,Chicken breasts 5lb,Hillside Poultry,4,14.93
+2025-05-06,Heavy cream pints,Meadow Dairy,3,3.95
+2025-05-07,Heavy cream pints,Meadow Dairy,4,3.95
+2025-05-07,Roma tomatoes,FreshFarm Produce,13,1.24
+2025-05-07,Chicken breasts 5lb,Hillside Poultry,4,14.79
+2025-05-08,Olive oil 1L,Mediterranean Oils Co,2,19.40
+2025-05-08,Roma tomatoes,FreshFarm Produce,13,1.28
+2025-05-09,Chicken breasts 5lb,Hillside Poultry,1,14.77
+2025-05-09,Olive oil 1L,Mediterranean Oils Co,2,19.37
+2025-05-10,Heavy cream pints,Meadow Dairy,6,3.96
+2025-05-10,Basil bunches,GreenLeaf Herbs,3,2.52
+2025-05-11,Basil bunches,GreenLeaf Herbs,7,2.41
+2025-05-11,Sourdough loaves,Dawn Bakery,5,4.11
+2025-05-12,Olive oil 1L,Mediterranean Oils Co,3,19.19
+2025-05-12,Basil bunches,GreenLeaf Herbs,4,2.38
+2025-05-13,Sourdough loaves,Dawn Bakery,4,4.26
+2025-05-13,Olive oil 1L,Mediterranean Oils Co,1,19.05
+2025-05-14,Roma tomatoes,FreshFarm Produce,11,1.30
+2025-05-14,Olive oil 1L,Mediterranean Oils Co,1,18.97
+2025-05-15,Olive oil 1L,Mediterranean Oils Co,2,18.46
+2025-05-15,Roma tomatoes,FreshFarm Produce,9,1.28
+2025-05-16,Chicken breasts 5lb,Hillside Poultry,2,15.00
+2025-05-16,Olive oil 1L,Mediterranean Oils Co,1,19.36
+2025-05-16,Roma tomatoes,FreshFarm Produce,16,1.29
+2025-05-17,Chicken breasts 5lb,Hillside Poultry,4,15.49
+2025-05-17,Roma tomatoes,FreshFarm Produce,9,1.27
+2025-05-17,Sourdough loaves,Dawn Bakery,7,4.18
+2025-05-19,Olive oil 1L,Mediterranean Oils Co,1,18.48
+2025-05-19,Sourdough loaves,Dawn Bakery,9,4.13
+2025-05-20,Sourdough loaves,Dawn Bakery,7,4.19
+2025-05-20,Olive oil 1L,Mediterranean Oils Co,2,18.88
+2025-05-20,Chicken breasts 5lb,Hillside Poultry,1,14.69
+2025-05-20,Heavy cream pints,Meadow Dairy,6,4.01
+2025-05-21,Basil bunches,GreenLeaf Herbs,6,2.44
+2025-05-21,Chicken breasts 5lb,Hillside Poultry,1,14.96
+2025-05-21,Sourdough loaves,Dawn Bakery,6,4.14
+2025-05-21,Roma tomatoes,FreshFarm Produce,13,1.29
+2025-05-22,Heavy cream pints,Meadow Dairy,2,3.83
+2025-05-22,Chicken breasts 5lb,Hillside Poultry,1,14.69
+2025-05-23,Heavy cream pints,Meadow Dairy,6,3.83
+2025-05-23,Olive oil 1L,Mediterranean Oils Co,3,18.94
+2025-05-23,Basil bunches,GreenLeaf Herbs,5,2.39
+2025-05-23,Sourdough loaves,Dawn Bakery,10,4.27
+2025-05-24,Heavy cream pints,Meadow Dairy,4,3.95
+2025-05-24,Roma tomatoes,FreshFarm Produce,16,1.25
+2025-05-24,Olive oil 1L,Mediterranean Oils Co,3,18.55
+2025-05-26,Olive oil 1L,Mediterranean Oils Co,2,18.72
+2025-05-26,Sourdough loaves,Dawn Bakery,10,4.20
+2025-05-27,Sourdough loaves,Dawn Bakery,9,4.21
+2025-05-27,Heavy cream pints,Meadow Dairy,4,4.00
+2025-05-27,Roma tomatoes,FreshFarm Produce,12,1.24
+2025-05-28,Olive oil 1L,Mediterranean Oils Co,1,18.52
+2025-05-28,Heavy cream pints,Meadow Dairy,5,3.94
+2025-05-28,Sourdough loaves,Dawn Bakery,9,4.08
+2025-05-28,Roma tomatoes,FreshFarm Produce,8,1.28
+2025-05-29,Heavy cream pints,Meadow Dairy,5,3.86
+2025-05-29,Sourdough loaves,Dawn Bakery,5,4.17
+2025-05-30,Olive oil 1L,Mediterranean Oils Co,1,19.30
+2025-05-30,Heavy cream pints,Meadow Dairy,6,3.85
+2025-05-30,Roma tomatoes,FreshFarm Produce,9,1.24
+2025-05-31,Chicken breasts 5lb,Hillside Poultry,4,15.14
+2025-05-31,Heavy cream pints,Meadow Dairy,6,3.87
+2025-05-31,Sourdough loaves,Dawn Bakery,7,4.09
+2025-06-02,Heavy cream pints,Meadow Dairy,2,3.98
+2025-06-02,Sourdough loaves,Dawn Bakery,8,4.13
+2025-06-02,Chicken breasts 5lb,Hillside Poultry,2,14.71
+2025-06-02,Olive oil 1L,Mediterranean Oils Co,1,18.72
+2025-06-03,Olive oil 1L,Mediterranean Oils Co,1,18.75
+2025-06-03,Heavy cream pints,Meadow Dairy,5,3.94
+2025-06-04,Basil bunches,GreenLeaf Herbs,4,2.46
+2025-06-04,Chicken breasts 5lb,Hillside Poultry,3,15.10
+2025-06-05,Chicken breasts 5lb,Hillside Poultry,4,15.05
+2025-06-05,Roma tomatoes,FreshFarm Produce,13,1.31
+2025-06-06,Chicken breasts 5lb,Hillside Poultry,3,15.23
+2025-06-06,Sourdough loaves,Dawn Bakery,4,4.10
+2025-06-06,Heavy cream pints,Meadow Dairy,3,4.05
+2025-06-06,Olive oil 1L,Mediterranean Oils Co,3,19.28
+2025-06-07,Heavy cream pints,Meadow Dairy,2,3.93
+2025-06-07,Olive oil 1L,Mediterranean Oils Co,3,18.66
+2025-06-07,Roma tomatoes,FreshFarm Produce,9,1.27
+2025-06-09,Heavy cream pints,Meadow Dairy,3,3.90
+2025-06-09,Olive oil 1L,Mediterranean Oils Co,3,18.47
+2025-06-09,Basil bunches,GreenLeaf Herbs,7,2.40
+2025-06-10,Olive oil 1L,Mediterranean Oils Co,3,19.20
+2025-06-10,Heavy cream pints,Meadow Dairy,3,4.02
+2025-06-11,Basil bunches,GreenLeaf Herbs,7,2.41
+2025-06-11,Olive oil 1L,Mediterranean Oils Co,3,18.56
+2025-06-12,Basil bunches,GreenLeaf Herbs,7,2.45
+2025-06-12,Chicken breasts 5lb,Hillside Poultry,4,15.33
+2025-06-13,Sourdough loaves,Dawn Bakery,7,4.15
+2025-06-13,Heavy cream pints,Meadow Dairy,5,3.84
+2025-06-13,Olive oil 1L,Mediterranean Oils Co,2,19.09
+2025-06-13,Chicken breasts 5lb,Hillside Poultry,3,15.18
+2025-06-14,Roma tomatoes,FreshFarm Produce,13,1.25
+2025-06-14,Olive oil 1L,Mediterranean Oils Co,1,19.31
+2025-06-14,Chicken breasts 5lb,Hillside Poultry,1,15.23
+2025-06-14,Basil bunches,GreenLeaf Herbs,7,2.47
+2025-06-16,Sourdough loaves,Dawn Bakery,6,4.24
+2025-06-16,Roma tomatoes,FreshFarm Produce,16,1.29
+2025-06-16,Chicken breasts 5lb,Hillside Poultry,1,14.80
+2025-06-16,Olive oil 1L,Mediterranean Oils Co,2,18.89
+2025-06-17,Roma tomatoes,FreshFarm Produce,15,1.26
+2025-06-17,Sourdough loaves,Dawn Bakery,8,4.32
+2025-06-17,Basil bunches,GreenLeaf Herbs,4,2.46
+2025-06-17,Heavy cream pints,Meadow Dairy,4,3.91
+2025-06-18,Chicken breasts 5lb,Hillside Poultry,3,15.36
+2025-06-18,Olive oil 1L,Mediterranean Oils Co,1,18.46
+2025-06-18,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-06-19,Olive oil 1L,Mediterranean Oils Co,3,18.76
+2025-06-19,Sourdough loaves,Dawn Bakery,6,4.24
+2025-06-19,Basil bunches,GreenLeaf Herbs,8,2.43
+2025-06-20,Heavy cream pints,Meadow Dairy,2,3.99
+2025-06-20,Chicken breasts 5lb,Hillside Poultry,4,14.94
+2025-06-20,Basil bunches,GreenLeaf Herbs,5,2.48
+2025-06-20,Olive oil 1L,Mediterranean Oils Co,3,19.29
+2025-06-21,Heavy cream pints,Meadow Dairy,6,3.98
+2025-06-21,Sourdough loaves,Dawn Bakery,6,4.16
+2025-06-21,Roma tomatoes,FreshFarm Produce,11,1.27
+2025-06-21,Olive oil 1L,Mediterranean Oils Co,2,18.77
+2025-06-23,Basil bunches,GreenLeaf Herbs,3,2.43
+2025-06-23,Roma tomatoes,FreshFarm Produce,16,1.28
+2025-06-24,Sourdough loaves,Dawn Bakery,7,4.11
+2025-06-24,Roma tomatoes,FreshFarm Produce,10,1.25
+2025-06-24,Olive oil 1L,Mediterranean Oils Co,3,19.31
+2025-06-24,Chicken breasts 5lb,Hillside Poultry,2,15.38
+2025-06-25,Chicken breasts 5lb,Hillside Poultry,2,15.26
+2025-06-25,Roma tomatoes,FreshFarm Produce,12,1.32
+2025-06-25,Heavy cream pints,Meadow Dairy,5,4.00
+2025-06-25,Basil bunches,GreenLeaf Herbs,4,2.42
+2025-06-26,Chicken breasts 5lb,Hillside Poultry,4,15.26
+2025-06-26,Basil bunches,GreenLeaf Herbs,5,2.45
+2025-06-26,Olive oil 1L,Mediterranean Oils Co,3,19.25
+2025-06-27,Chicken breasts 5lb,Hillside Poultry,3,14.78
+2025-06-27,Basil bunches,GreenLeaf Herbs,6,2.39
+2025-06-27,Sourdough loaves,Dawn Bakery,8,4.29
+2025-06-27,Olive oil 1L,Mediterranean Oils Co,3,19.43
+2025-06-28,Roma tomatoes,FreshFarm Produce,16,1.26
+2025-06-28,Olive oil 1L,Mediterranean Oils Co,2,18.55
+2025-06-28,Heavy cream pints,Meadow Dairy,3,3.85
+2025-06-28,Chicken breasts 5lb,Hillside Poultry,3,15.38
+2025-06-29,Roma tomatoes,FreshFarm Produce,9,1.26
+2025-06-29,Chicken breasts 5lb,Hillside Poultry,1,14.99
+2025-06-29,Olive oil 1L,Mediterranean Oils Co,1,18.74
+2025-06-30,Heavy cream pints,Meadow Dairy,5,3.84
+2025-06-30,Olive oil 1L,Mediterranean Oils Co,1,19.16
+2025-06-30,Basil bunches,GreenLeaf Herbs,6,2.49
+2025-06-30,Roma tomatoes,FreshFarm Produce,8,1.28
+2025-07-01,Roma tomatoes,FreshFarm Produce,10,1.26
+2025-07-01,Olive oil 1L,Mediterranean Oils Co,3,19.07
+2025-07-02,Sourdough loaves,Dawn Bakery,4,4.15
+2025-07-02,Chicken breasts 5lb,Hillside Poultry,4,14.76
+2025-07-02,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-07-02,Basil bunches,GreenLeaf Herbs,6,2.40
+2025-07-03,Sourdough loaves,Dawn Bakery,7,4.13
+2025-07-03,Roma tomatoes,FreshFarm Produce,13,1.25
+2025-07-03,Basil bunches,GreenLeaf Herbs,6,2.43
+2025-07-03,Olive oil 1L,Mediterranean Oils Co,3,18.67
+2025-07-04,Sourdough loaves,Dawn Bakery,8,4.11
+2025-07-04,Olive oil 1L,Mediterranean Oils Co,3,19.07
+2025-07-05,Roma tomatoes,FreshFarm Produce,13,1.30
+2025-07-05,Chicken breasts 5lb,Hillside Poultry,1,14.94
+2025-07-05,Sourdough loaves,Dawn Bakery,4,4.18
+2025-07-05,Heavy cream pints,Meadow Dairy,2,3.92
+2025-07-06,Olive oil 1L,Mediterranean Oils Co,3,19.07
+2025-07-06,Basil bunches,GreenLeaf Herbs,8,2.42
+2025-07-06,Roma tomatoes,FreshFarm Produce,15,1.28
+2025-07-06,Sourdough loaves,Dawn Bakery,10,4.25
+2025-07-07,Roma tomatoes,FreshFarm Produce,11,1.25
+2025-07-07,Chicken breasts 5lb,Hillside Poultry,2,14.76
+2025-07-08,Olive oil 1L,Mediterranean Oils Co,3,19.04
+2025-07-08,Heavy cream pints,Meadow Dairy,2,3.95
+2025-07-09,Basil bunches,GreenLeaf Herbs,5,2.52
+2025-07-09,Olive oil 1L,Mediterranean Oils Co,2,18.77
+2025-07-09,Sourdough loaves,Dawn Bakery,7,4.20
+2025-07-09,Roma tomatoes,FreshFarm Produce,14,1.30
+2025-07-10,Basil bunches,GreenLeaf Herbs,7,2.45
+2025-07-10,Chicken breasts 5lb,Hillside Poultry,1,14.96
+2025-07-10,Sourdough loaves,Dawn Bakery,4,4.27
+2025-07-11,Sourdough loaves,Dawn Bakery,4,4.17
+2025-07-11,Basil bunches,GreenLeaf Herbs,5,2.44
+2025-07-11,Olive oil 1L,Mediterranean Oils Co,3,18.80
+2025-07-12,Chicken breasts 5lb,Hillside Poultry,3,15.12
+2025-07-12,Basil bunches,GreenLeaf Herbs,6,2.48
+2025-07-12,Heavy cream pints,Meadow Dairy,2,3.91
+2025-07-12,Sourdough loaves,Dawn Bakery,9,4.11
+2025-07-14,Heavy cream pints,Meadow Dairy,5,4.04
+2025-07-14,Basil bunches,GreenLeaf Herbs,3,2.40
+2025-07-14,Roma tomatoes,FreshFarm Produce,13,1.27
+2025-07-14,Chicken breasts 5lb,Hillside Poultry,1,15.04
+2025-07-15,Basil bunches,GreenLeaf Herbs,3,2.46
+2025-07-15,Chicken breasts 5lb,Hillside Poultry,3,15.23
+2025-07-15,Olive oil 1L,Mediterranean Oils Co,3,18.90
+2025-07-15,Heavy cream pints,Meadow Dairy,2,3.91
+2025-07-16,Heavy cream pints,Meadow Dairy,5,3.96
+2025-07-16,Basil bunches,GreenLeaf Herbs,3,2.53
+2025-07-17,Olive oil 1L,Mediterranean Oils Co,2,19.57
+2025-07-17,Chicken breasts 5lb,Hillside Poultry,4,15.33
+2025-07-17,Basil bunches,GreenLeaf Herbs,4,2.42
+2025-07-18,Chicken breasts 5lb,Hillside Poultry,4,15.52
+2025-07-18,Basil bunches,GreenLeaf Herbs,8,2.54
+2025-07-19,Heavy cream pints,Meadow Dairy,4,3.97
+2025-07-19,Olive oil 1L,Mediterranean Oils Co,1,19.45
+2025-07-19,Roma tomatoes,FreshFarm Produce,10,1.30
+2025-07-20,Basil bunches,GreenLeaf Herbs,6,2.43
+2025-07-20,Roma tomatoes,FreshFarm Produce,16,1.25
+2025-07-20,Heavy cream pints,Meadow Dairy,5,3.97
+2025-07-20,Sourdough loaves,Dawn Bakery,8,4.29
+2025-07-21,Sourdough loaves,Dawn Bakery,7,4.11
+2025-07-21,Roma tomatoes,FreshFarm Produce,15,1.32
+2025-07-22,Chicken breasts 5lb,Hillside Poultry,1,15.58
+2025-07-22,Heavy cream pints,Meadow Dairy,6,3.95
+2025-07-22,Roma tomatoes,FreshFarm Produce,16,1.27
+2025-07-22,Sourdough loaves,Dawn Bakery,5,4.25
+2025-07-23,Chicken breasts 5lb,Hillside Poultry,1,15.53
+2025-07-23,Sourdough loaves,Dawn Bakery,8,4.30
+2025-07-24,Olive oil 1L,Mediterranean Oils Co,3,18.64
+2025-07-24,Basil bunches,GreenLeaf Herbs,7,2.43
+2025-07-25,Roma tomatoes,FreshFarm Produce,16,1.30
+2025-07-25,Olive oil 1L,Mediterranean Oils Co,3,18.77
+2025-07-25,Basil bunches,GreenLeaf Herbs,7,2.44
+2025-07-26,Sourdough loaves,Dawn Bakery,8,4.24
+2025-07-26,Basil bunches,GreenLeaf Herbs,8,2.42
+2025-07-28,Olive oil 1L,Mediterranean Oils Co,3,18.55
+2025-07-28,Sourdough loaves,Dawn Bakery,6,4.28
+2025-07-28,Roma tomatoes,FreshFarm Produce,14,1.30
+2025-07-28,Chicken breasts 5lb,Hillside Poultry,1,15.27
+2025-07-29,Heavy cream pints,Meadow Dairy,4,3.99
+2025-07-29,Sourdough loaves,Dawn Bakery,10,4.21
+2025-07-29,Olive oil 1L,Mediterranean Oils Co,2,19.36
+2025-07-30,Chicken breasts 5lb,Hillside Poultry,4,14.86
+2025-07-30,Roma tomatoes,FreshFarm Produce,11,1.28
+2025-07-30,Sourdough loaves,Dawn Bakery,5,4.18
+2025-07-31,Heavy cream pints,Meadow Dairy,3,4.07
+2025-07-31,Olive oil 1L,Mediterranean Oils Co,3,19.31
+2025-07-31,Sourdough loaves,Dawn Bakery,6,4.23
+2025-08-01,Chicken breasts 5lb,Hillside Poultry,2,15.02
+2025-08-01,Roma tomatoes,FreshFarm Produce,8,1.26
+2025-08-02,Chicken breasts 5lb,Hillside Poultry,2,15.00
+2025-08-02,Sourdough loaves,Dawn Bakery,8,4.31
+2025-08-02,Heavy cream pints,Meadow Dairy,3,4.02
+2025-08-03,Sourdough loaves,Dawn Bakery,7,4.32
+2025-08-03,Chicken breasts 5lb,Hillside Poultry,4,14.80
+2025-08-03,Heavy cream pints,Meadow Dairy,3,3.97
+2025-08-04,Sourdough loaves,Dawn Bakery,6,4.12
+2025-08-04,Olive oil 1L,Mediterranean Oils Co,3,19.09
+2025-08-05,Chicken breasts 5lb,Hillside Poultry,3,15.16
+2025-08-05,Olive oil 1L,Mediterranean Oils Co,2,19.34
+2025-08-05,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-08-05,Heavy cream pints,Meadow Dairy,6,3.87
+2025-08-06,Olive oil 1L,Mediterranean Oils Co,2,18.86
+2025-08-06,Sourdough loaves,Dawn Bakery,10,4.23
+2025-08-07,Olive oil 1L,Mediterranean Oils Co,2,19.62
+2025-08-07,Sourdough loaves,Dawn Bakery,6,4.20
+2025-08-07,Roma tomatoes,FreshFarm Produce,13,1.29
+2025-08-07,Chicken breasts 5lb,Hillside Poultry,2,15.45
+2025-08-08,Sourdough loaves,Dawn Bakery,9,4.12
+2025-08-08,Chicken breasts 5lb,Hillside Poultry,4,15.07
+2025-08-08,Roma tomatoes,FreshFarm Produce,10,1.29
+2025-08-08,Heavy cream pints,Meadow Dairy,6,4.00
+2025-08-09,Olive oil 1L,Mediterranean Oils Co,2,18.89
+2025-08-09,Sourdough loaves,Dawn Bakery,9,4.35
+2025-08-10,Olive oil 1L,Mediterranean Oils Co,2,19.16
+2025-08-10,Sourdough loaves,Dawn Bakery,6,4.31
+2025-08-10,Chicken breasts 5lb,Hillside Poultry,1,15.07
+2025-08-10,Heavy cream pints,Meadow Dairy,6,4.08
+2025-08-11,Heavy cream pints,Meadow Dairy,6,3.92
+2025-08-11,Roma tomatoes,FreshFarm Produce,8,1.30
+2025-08-11,Chicken breasts 5lb,Hillside Poultry,2,15.30
+2025-08-12,Heavy cream pints,Meadow Dairy,3,4.05
+2025-08-12,Sourdough loaves,Dawn Bakery,9,4.12
+2025-08-12,Chicken breasts 5lb,Hillside Poultry,1,14.88
+2025-08-12,Roma tomatoes,FreshFarm Produce,14,1.29
+2025-08-13,Chicken breasts 5lb,Hillside Poultry,4,15.14
+2025-08-13,Basil bunches,GreenLeaf Herbs,8,2.53
+2025-08-14,Roma tomatoes,FreshFarm Produce,15,1.28
+2025-08-14,Basil bunches,GreenLeaf Herbs,5,2.48
+2025-08-14,Sourdough loaves,Dawn Bakery,7,4.34
+2025-08-14,Olive oil 1L,Mediterranean Oils Co,2,19.55
+2025-08-15,Olive oil 1L,Mediterranean Oils Co,2,19.60
+2025-08-15,Heavy cream pints,Meadow Dairy,3,3.99
+2025-08-15,Chicken breasts 5lb,Hillside Poultry,3,15.61
+2025-08-15,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-08-16,Heavy cream pints,Meadow Dairy,4,3.94
+2025-08-16,Chicken breasts 5lb,Hillside Poultry,4,15.03
+2025-08-16,Olive oil 1L,Mediterranean Oils Co,2,19.53
+2025-08-16,Basil bunches,GreenLeaf Herbs,4,2.52
+2025-08-18,Heavy cream pints,Meadow Dairy,4,4.07
+2025-08-18,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-08-18,Olive oil 1L,Mediterranean Oils Co,3,18.76
+2025-08-19,Sourdough loaves,Dawn Bakery,9,4.14
+2025-08-19,Olive oil 1L,Mediterranean Oils Co,1,19.19
+2025-08-19,Basil bunches,GreenLeaf Herbs,7,2.41
+2025-08-20,Heavy cream pints,Meadow Dairy,5,3.87
+2025-08-20,Basil bunches,GreenLeaf Herbs,6,2.45
+2025-08-21,Heavy cream pints,Meadow Dairy,6,3.86
+2025-08-21,Basil bunches,GreenLeaf Herbs,4,2.55
+2025-08-22,Heavy cream pints,Meadow Dairy,4,4.01
+2025-08-22,Chicken breasts 5lb,Hillside Poultry,1,15.06
+2025-08-22,Sourdough loaves,Dawn Bakery,4,4.33
+2025-08-23,Sourdough loaves,Dawn Bakery,10,4.21
+2025-08-23,Basil bunches,GreenLeaf Herbs,3,2.43
+2025-08-23,Roma tomatoes,FreshFarm Produce,14,1.33
+2025-08-23,Chicken breasts 5lb,Hillside Poultry,2,15.48
+2025-08-24,Roma tomatoes,FreshFarm Produce,9,1.30
+2025-08-24,Heavy cream pints,Meadow Dairy,4,4.07
+2025-08-24,Olive oil 1L,Mediterranean Oils Co,3,18.85
+2025-08-25,Sourdough loaves,Dawn Bakery,5,4.22
+2025-08-25,Chicken breasts 5lb,Hillside Poultry,3,15.50
+2025-08-25,Basil bunches,GreenLeaf Herbs,6,2.43
+2025-08-25,Olive oil 1L,Mediterranean Oils Co,3,19.26
+2025-08-26,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-08-26,Olive oil 1L,Mediterranean Oils Co,3,18.73
+2025-08-27,Chicken breasts 5lb,Hillside Poultry,1,14.86
+2025-08-27,Sourdough loaves,Dawn Bakery,5,4.15
+2025-08-27,Olive oil 1L,Mediterranean Oils Co,1,19.07
+2025-08-28,Olive oil 1L,Mediterranean Oils Co,2,18.80
+2025-08-28,Chicken breasts 5lb,Hillside Poultry,3,15.62
+2025-08-29,Heavy cream pints,Meadow Dairy,3,4.01
+2025-08-29,Sourdough loaves,Dawn Bakery,4,4.12
+2025-08-29,Roma tomatoes,FreshFarm Produce,10,1.29
+2025-08-29,Basil bunches,GreenLeaf Herbs,7,2.46
+2025-08-30,Olive oil 1L,Mediterranean Oils Co,1,19.22
+2025-08-30,Roma tomatoes,FreshFarm Produce,15,1.32
+2025-08-30,Heavy cream pints,Meadow Dairy,6,3.89
+2025-08-30,Basil bunches,GreenLeaf Herbs,8,2.46
+2025-09-01,Sourdough loaves,Dawn Bakery,8,4.29
+2025-09-01,Basil bunches,GreenLeaf Herbs,3,2.54
+2025-09-01,Heavy cream pints,Meadow Dairy,6,3.99
+2025-09-02,Olive oil 1L,Mediterranean Oils Co,3,19.53
+2025-09-02,Roma tomatoes,FreshFarm Produce,16,1.27
+2025-09-02,Sourdough loaves,Dawn Bakery,6,4.16
+2025-09-02,Chicken breasts 5lb,Hillside Poultry,4,15.59
+2025-09-03,Heavy cream pints,Meadow Dairy,5,4.04
+2025-09-03,Basil bunches,GreenLeaf Herbs,7,2.43
+2025-09-04,Roma tomatoes,FreshFarm Produce,15,1.30
+2025-09-04,Chicken breasts 5lb,Hillside Poultry,4,15.34
+2025-09-04,Basil bunches,GreenLeaf Herbs,5,2.51
+2025-09-05,Roma tomatoes,FreshFarm Produce,9,1.31
+2025-09-05,Chicken breasts 5lb,Hillside Poultry,3,14.88
+2025-09-05,Olive oil 1L,Mediterranean Oils Co,3,19.39
+2025-09-05,Heavy cream pints,Meadow Dairy,2,4.10
+2025-09-06,Roma tomatoes,FreshFarm Produce,10,1.27
+2025-09-06,Olive oil 1L,Mediterranean Oils Co,3,19.46
+2025-09-06,Chicken breasts 5lb,Hillside Poultry,4,15.41
+2025-09-08,Chicken breasts 5lb,Hillside Poultry,2,14.91
+2025-09-08,Heavy cream pints,Meadow Dairy,4,4.02
+2025-09-08,Sourdough loaves,Dawn Bakery,8,4.15
+2025-09-09,Sourdough loaves,Dawn Bakery,10,4.33
+2025-09-09,Basil bunches,GreenLeaf Herbs,5,2.42
+2025-09-09,Heavy cream pints,Meadow Dairy,6,3.98
+2025-09-10,Sourdough loaves,Dawn Bakery,6,4.19
+2025-09-10,Chicken breasts 5lb,Hillside Poultry,2,14.98
+2025-09-10,Basil bunches,GreenLeaf Herbs,8,2.55
+2025-09-11,Roma tomatoes,FreshFarm Produce,8,1.30
+2025-09-11,Chicken breasts 5lb,Hillside Poultry,1,15.05
+2025-09-12,Sourdough loaves,Dawn Bakery,9,4.23
+2025-09-12,Roma tomatoes,FreshFarm Produce,8,1.31
+2025-09-13,Heavy cream pints,Meadow Dairy,3,3.97
+2025-09-13,Roma tomatoes,FreshFarm Produce,8,1.30
+2025-09-15,Basil bunches,GreenLeaf Herbs,8,2.50
+2025-09-15,Sourdough loaves,Dawn Bakery,5,4.33
+2025-09-15,Olive oil 1L,Mediterranean Oils Co,1,18.95
+2025-09-16,Sourdough loaves,Dawn Bakery,8,4.19
+2025-09-16,Basil bunches,GreenLeaf Herbs,8,2.55
+2025-09-16,Chicken breasts 5lb,Hillside Poultry,4,15.65
+2025-09-16,Heavy cream pints,Meadow Dairy,2,4.00
+2025-09-17,Heavy cream pints,Meadow Dairy,5,4.03
+2025-09-17,Chicken breasts 5lb,Hillside Poultry,4,14.97
+2025-09-17,Olive oil 1L,Mediterranean Oils Co,3,18.82
+2025-09-18,Basil bunches,GreenLeaf Herbs,4,2.54
+2025-09-18,Heavy cream pints,Meadow Dairy,2,4.06
+2025-09-18,Olive oil 1L,Mediterranean Oils Co,2,19.24
+2025-09-19,Sourdough loaves,Dawn Bakery,6,4.19
+2025-09-19,Basil bunches,GreenLeaf Herbs,6,2.51
+2025-09-19,Chicken breasts 5lb,Hillside Poultry,1,15.59
+2025-09-19,Roma tomatoes,FreshFarm Produce,11,1.30
+2025-09-20,Olive oil 1L,Mediterranean Oils Co,3,19.36
+2025-09-20,Chicken breasts 5lb,Hillside Poultry,1,14.87
+2025-09-22,Heavy cream pints,Meadow Dairy,4,3.92
+2025-09-22,Sourdough loaves,Dawn Bakery,4,4.20
+2025-09-22,Basil bunches,GreenLeaf Herbs,4,2.44
+2025-09-22,Chicken breasts 5lb,Hillside Poultry,1,15.69
+2025-09-23,Chicken breasts 5lb,Hillside Poultry,3,15.65
+2025-09-23,Basil bunches,GreenLeaf Herbs,6,2.53
+2025-09-23,Sourdough loaves,Dawn Bakery,9,4.24
+2025-09-23,Heavy cream pints,Meadow Dairy,4,3.96
+2025-09-24,Sourdough loaves,Dawn Bakery,9,4.15
+2025-09-24,Chicken breasts 5lb,Hillside Poultry,3,15.25
+2025-09-24,Heavy cream pints,Meadow Dairy,4,4.08
+2025-09-25,Chicken breasts 5lb,Hillside Poultry,1,15.49
+2025-09-25,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-09-25,Basil bunches,GreenLeaf Herbs,4,2.46
+2025-09-26,Basil bunches,GreenLeaf Herbs,8,2.49
+2025-09-26,Chicken breasts 5lb,Hillside Poultry,3,15.67
+2025-09-26,Heavy cream pints,Meadow Dairy,5,3.93
+2025-09-27,Heavy cream pints,Meadow Dairy,4,4.04
+2025-09-27,Chicken breasts 5lb,Hillside Poultry,4,14.99
+2025-09-27,Sourdough loaves,Dawn Bakery,8,4.17
+2025-09-27,Roma tomatoes,FreshFarm Produce,8,1.33
+2025-09-29,Heavy cream pints,Meadow Dairy,5,4.05
+2025-09-29,Roma tomatoes,FreshFarm Produce,11,1.27
+2025-09-30,Heavy cream pints,Meadow Dairy,6,3.88
+2025-09-30,Basil bunches,GreenLeaf Herbs,3,2.48
+2025-10-01,Heavy cream pints,Meadow Dairy,2,4.00
+2025-10-01,Sourdough loaves,Dawn Bakery,7,4.27
+2025-10-01,Chicken breasts 5lb,Hillside Poultry,3,14.91
+2025-10-01,Olive oil 1L,Mediterranean Oils Co,2,19.28
+2025-10-02,Sourdough loaves,Dawn Bakery,5,4.34
+2025-10-02,Chicken breasts 5lb,Hillside Poultry,1,14.99
+2025-10-03,Basil bunches,GreenLeaf Herbs,5,2.50
+2025-10-03,Heavy cream pints,Meadow Dairy,5,3.95
+2025-10-03,Sourdough loaves,Dawn Bakery,7,4.16
+2025-10-03,Olive oil 1L,Mediterranean Oils Co,1,19.19
+2025-10-04,Basil bunches,GreenLeaf Herbs,8,2.57
+2025-10-04,Olive oil 1L,Mediterranean Oils Co,1,19.53
+2025-10-04,Roma tomatoes,FreshFarm Produce,14,1.29
+2025-10-04,Sourdough loaves,Dawn Bakery,4,4.28
+2025-10-06,Basil bunches,GreenLeaf Herbs,5,2.52
+2025-10-06,Roma tomatoes,FreshFarm Produce,9,1.30
+2025-10-06,Chicken breasts 5lb,Hillside Poultry,1,15.69
+2025-10-06,Heavy cream pints,Meadow Dairy,6,3.94
+2025-10-07,Olive oil 1L,Mediterranean Oils Co,2,19.44
+2025-10-07,Roma tomatoes,FreshFarm Produce,8,1.33
+2025-10-07,Sourdough loaves,Dawn Bakery,10,4.19
+2025-10-08,Roma tomatoes,FreshFarm Produce,14,1.32
+2025-10-08,Basil bunches,GreenLeaf Herbs,5,2.56
+2025-10-08,Sourdough loaves,Dawn Bakery,5,4.18
+2025-10-09,Chicken breasts 5lb,Hillside Poultry,2,15.57
+2025-10-09,Sourdough loaves,Dawn Bakery,9,4.34
+2025-10-09,Olive oil 1L,Mediterranean Oils Co,3,19.49
+2025-10-09,Basil bunches,GreenLeaf Herbs,5,2.53
+2025-10-10,Roma tomatoes,FreshFarm Produce,9,1.28
+2025-10-10,Chicken breasts 5lb,Hillside Poultry,4,15.20
+2025-10-11,Roma tomatoes,FreshFarm Produce,13,1.30
+2025-10-11,Olive oil 1L,Mediterranean Oils Co,2,19.30
+2025-10-11,Chicken breasts 5lb,Hillside Poultry,4,15.28
+2025-10-13,Olive oil 1L,Mediterranean Oils Co,2,18.98
+2025-10-13,Basil bunches,GreenLeaf Herbs,8,2.53
+2025-10-13,Roma tomatoes,FreshFarm Produce,14,1.27
+2025-10-13,Chicken breasts 5lb,Hillside Poultry,1,15.18
+2025-10-14,Roma tomatoes,FreshFarm Produce,12,1.30
+2025-10-14,Olive oil 1L,Mediterranean Oils Co,1,18.80
+2025-10-15,Chicken breasts 5lb,Hillside Poultry,4,15.39
+2025-10-15,Heavy cream pints,Meadow Dairy,2,3.91
+2025-10-16,Sourdough loaves,Dawn Bakery,4,4.35
+2025-10-16,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-10-16,Olive oil 1L,Mediterranean Oils Co,3,19.55
+2025-10-17,Basil bunches,GreenLeaf Herbs,4,2.48
+2025-10-17,Sourdough loaves,Dawn Bakery,6,4.21
+2025-10-17,Heavy cream pints,Meadow Dairy,2,4.00
+2025-10-17,Olive oil 1L,Mediterranean Oils Co,2,18.87
+2025-10-18,Olive oil 1L,Mediterranean Oils Co,1,19.09
+2025-10-18,Chicken breasts 5lb,Hillside Poultry,4,15.54
+2025-10-18,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-10-20,Olive oil 1L,Mediterranean Oils Co,2,19.74
+2025-10-20,Roma tomatoes,FreshFarm Produce,14,1.33
+2025-10-21,Chicken breasts 5lb,Hillside Poultry,2,15.62
+2025-10-21,Olive oil 1L,Mediterranean Oils Co,3,19.02
+2025-10-21,Heavy cream pints,Meadow Dairy,3,4.11
+2025-10-22,Olive oil 1L,Mediterranean Oils Co,2,19.76
+2025-10-22,Basil bunches,GreenLeaf Herbs,8,2.53
+2025-10-22,Chicken breasts 5lb,Hillside Poultry,2,15.33
+2025-10-23,Chicken breasts 5lb,Hillside Poultry,2,15.22
+2025-10-23,Olive oil 1L,Mediterranean Oils Co,3,19.34
+2025-10-23,Heavy cream pints,Meadow Dairy,6,3.93
+2025-10-24,Heavy cream pints,Meadow Dairy,3,4.11
+2025-10-24,Chicken breasts 5lb,Hillside Poultry,3,15.29
+2025-10-25,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-10-25,Chicken breasts 5lb,Hillside Poultry,2,15.12
+2025-10-25,Sourdough loaves,Dawn Bakery,10,4.32
+2025-10-25,Heavy cream pints,Meadow Dairy,5,3.98
+2025-10-26,Sourdough loaves,Dawn Bakery,10,4.27
+2025-10-26,Chicken breasts 5lb,Hillside Poultry,1,15.75
+2025-10-26,Heavy cream pints,Meadow Dairy,3,3.91
+2025-10-27,Heavy cream pints,Meadow Dairy,6,4.03
+2025-10-27,Olive oil 1L,Mediterranean Oils Co,3,19.78
+2025-10-27,Basil bunches,GreenLeaf Herbs,5,2.52
+2025-10-27,Sourdough loaves,Dawn Bakery,7,4.38
+2025-10-28,Roma tomatoes,FreshFarm Produce,16,1.28
+2025-10-28,Heavy cream pints,Meadow Dairy,6,4.06
+2025-10-29,Heavy cream pints,Meadow Dairy,5,3.97
+2025-10-29,Sourdough loaves,Dawn Bakery,8,4.33
+2025-10-29,Basil bunches,GreenLeaf Herbs,4,2.52
+2025-10-29,Chicken breasts 5lb,Hillside Poultry,1,15.20
+2025-10-30,Roma tomatoes,FreshFarm Produce,9,1.33
+2025-10-30,Olive oil 1L,Mediterranean Oils Co,3,18.81
+2025-10-30,Chicken breasts 5lb,Hillside Poultry,3,15.02
+2025-10-31,Chicken breasts 5lb,Hillside Poultry,1,15.21
+2025-10-31,Basil bunches,GreenLeaf Herbs,8,2.49
+2025-10-31,Heavy cream pints,Meadow Dairy,2,3.99
+2025-11-01,Roma tomatoes,FreshFarm Produce,9,1.33
+2025-11-01,Heavy cream pints,Meadow Dairy,3,4.06
+2025-11-01,Sourdough loaves,Dawn Bakery,9,4.39
+2025-11-03,Sourdough loaves,Dawn Bakery,7,4.24
+2025-11-03,Basil bunches,GreenLeaf Herbs,4,2.57
+2025-11-04,Heavy cream pints,Meadow Dairy,5,4.05
+2025-11-04,Basil bunches,GreenLeaf Herbs,8,2.49
+2025-11-04,Sourdough loaves,Dawn Bakery,5,4.31
+2025-11-05,Sourdough loaves,Dawn Bakery,5,4.16
+2025-11-05,Chicken breasts 5lb,Hillside Poultry,1,15.14
+2025-11-05,Heavy cream pints,Meadow Dairy,6,4.04
+2025-11-06,Olive oil 1L,Mediterranean Oils Co,1,18.98
+2025-11-06,Heavy cream pints,Meadow Dairy,5,3.96
+2025-11-07,Heavy cream pints,Meadow Dairy,2,3.99
+2025-11-07,Olive oil 1L,Mediterranean Oils Co,2,19.15
+2025-11-07,Chicken breasts 5lb,Hillside Poultry,3,15.50
+2025-11-07,Sourdough loaves,Dawn Bakery,8,4.38
+2025-11-08,Heavy cream pints,Meadow Dairy,3,3.98
+2025-11-08,Basil bunches,GreenLeaf Herbs,4,2.48
+2025-11-10,Sourdough loaves,Dawn Bakery,5,4.26
+2025-11-10,Chicken breasts 5lb,Hillside Poultry,4,15.47
+2025-11-11,Chicken breasts 5lb,Hillside Poultry,2,15.57
+2025-11-11,Sourdough loaves,Dawn Bakery,7,4.29
+2025-11-12,Basil bunches,GreenLeaf Herbs,7,2.55
+2025-11-12,Heavy cream pints,Meadow Dairy,4,3.92
+2025-11-12,Olive oil 1L,Mediterranean Oils Co,2,19.82
+2025-11-13,Basil bunches,GreenLeaf Herbs,7,2.57
+2025-11-13,Chicken breasts 5lb,Hillside Poultry,4,15.53
+2025-11-14,Chicken breasts 5lb,Hillside Poultry,1,15.10
+2025-11-14,Heavy cream pints,Meadow Dairy,3,4.09
+2025-11-14,Sourdough loaves,Dawn Bakery,6,4.23
+2025-11-14,Basil bunches,GreenLeaf Herbs,5,2.47
+2025-11-15,Chicken breasts 5lb,Hillside Poultry,4,15.61
+2025-11-15,Sourdough loaves,Dawn Bakery,4,4.29
+2025-11-17,Sourdough loaves,Dawn Bakery,7,4.34
+2025-11-17,Olive oil 1L,Mediterranean Oils Co,2,19.37
+2025-11-17,Roma tomatoes,FreshFarm Produce,11,1.28
+2025-11-18,Roma tomatoes,FreshFarm Produce,9,1.29
+2025-11-18,Chicken breasts 5lb,Hillside Poultry,1,15.35
+2025-11-18,Olive oil 1L,Mediterranean Oils Co,1,19.62
+2025-11-19,Heavy cream pints,Meadow Dairy,6,4.06
+2025-11-19,Sourdough loaves,Dawn Bakery,5,4.31
+2025-11-20,Basil bunches,GreenLeaf Herbs,7,2.52
+2025-11-20,Heavy cream pints,Meadow Dairy,6,3.97
+2025-11-20,Sourdough loaves,Dawn Bakery,9,4.20
+2025-11-20,Roma tomatoes,FreshFarm Produce,12,1.29
+2025-11-21,Heavy cream pints,Meadow Dairy,4,4.12
+2025-11-21,Roma tomatoes,FreshFarm Produce,10,1.33
+2025-11-21,Basil bunches,GreenLeaf Herbs,4,2.53
+2025-11-21,Chicken breasts 5lb,Hillside Poultry,3,15.18
+2025-11-22,Heavy cream pints,Meadow Dairy,6,4.02
+2025-11-22,Chicken breasts 5lb,Hillside Poultry,4,15.52
+2025-11-24,Heavy cream pints,Meadow Dairy,4,4.00
+2025-11-24,Roma tomatoes,FreshFarm Produce,13,1.32
+2025-11-25,Chicken breasts 5lb,Hillside Poultry,1,15.73
+2025-11-25,Olive oil 1L,Mediterranean Oils Co,2,19.57
+2025-11-25,Roma tomatoes,FreshFarm Produce,13,1.32
+2025-11-26,Sourdough loaves,Dawn Bakery,7,4.21
+2025-11-26,Chicken breasts 5lb,Hillside Poultry,4,15.69
+2025-11-27,Olive oil 1L,Mediterranean Oils Co,1,19.37
+2025-11-27,Heavy cream pints,Meadow Dairy,5,4.03
+2025-11-27,Sourdough loaves,Dawn Bakery,9,4.35
+2025-11-28,Roma tomatoes,FreshFarm Produce,15,1.31
+2025-11-28,Heavy cream pints,Meadow Dairy,3,3.91
+2025-11-29,Chicken breasts 5lb,Hillside Poultry,2,15.14
+2025-11-29,Roma tomatoes,FreshFarm Produce,12,1.33
+2025-11-29,Heavy cream pints,Meadow Dairy,4,3.94
+2025-12-01,Olive oil 1L,Mediterranean Oils Co,3,19.57
+2025-12-01,Roma tomatoes,FreshFarm Produce,14,1.28
+2025-12-01,Heavy cream pints,Meadow Dairy,3,4.06
+2025-12-02,Heavy cream pints,Meadow Dairy,5,3.92
+2025-12-02,Roma tomatoes,FreshFarm Produce,11,1.28
+2025-12-02,Sourdough loaves,Dawn Bakery,7,4.30
+2025-12-03,Roma tomatoes,FreshFarm Produce,14,1.33
+2025-12-03,Olive oil 1L,Mediterranean Oils Co,2,19.60
+2025-12-04,Basil bunches,GreenLeaf Herbs,3,2.46
+2025-12-04,Chicken breasts 5lb,Hillside Poultry,3,15.11
+2025-12-05,Basil bunches,GreenLeaf Herbs,8,2.54
+2025-12-05,Chicken breasts 5lb,Hillside Poultry,1,15.14
+2025-12-05,Heavy cream pints,Meadow Dairy,3,4.06
+2025-12-06,Olive oil 1L,Mediterranean Oils Co,3,19.85
+2025-12-06,Basil bunches,GreenLeaf Herbs,4,2.54
+2025-12-06,Sourdough loaves,Dawn Bakery,4,4.20
+2025-12-08,Sourdough loaves,Dawn Bakery,7,4.26
+2025-12-08,Chicken breasts 5lb,Hillside Poultry,2,15.29
+2025-12-09,Olive oil 1L,Mediterranean Oils Co,3,19.11
+2025-12-09,Roma tomatoes,FreshFarm Produce,12,1.32
+2025-12-10,Roma tomatoes,FreshFarm Produce,11,1.32
+2025-12-10,Olive oil 1L,Mediterranean Oils Co,2,19.66
+2025-12-10,Basil bunches,GreenLeaf Herbs,4,2.54
+2025-12-10,Sourdough loaves,Dawn Bakery,4,4.30
+2025-12-11,Chicken breasts 5lb,Hillside Poultry,1,15.08
+2025-12-11,Sourdough loaves,Dawn Bakery,6,4.42
+2025-12-12,Chicken breasts 5lb,Hillside Poultry,2,15.39
+2025-12-12,Sourdough loaves,Dawn Bakery,10,4.36
+2025-12-13,Roma tomatoes,FreshFarm Produce,12,1.28
+2025-12-13,Sourdough loaves,Dawn Bakery,4,4.23
+2025-12-14,Sourdough loaves,Dawn Bakery,7,4.28
+2025-12-14,Olive oil 1L,Mediterranean Oils Co,3,18.92
+2025-12-14,Chicken breasts 5lb,Hillside Poultry,2,15.49
+2025-12-15,Roma tomatoes,FreshFarm Produce,11,1.31
+2025-12-15,Olive oil 1L,Mediterranean Oils Co,1,19.91
+2025-12-15,Heavy cream pints,Meadow Dairy,5,4.04
+2025-12-16,Heavy cream pints,Meadow Dairy,3,4.02
+2025-12-16,Roma tomatoes,FreshFarm Produce,9,1.28
+2025-12-16,Olive oil 1L,Mediterranean Oils Co,1,19.86
+2025-12-16,Chicken breasts 5lb,Hillside Poultry,1,15.42
+2025-12-17,Heavy cream pints,Meadow Dairy,3,3.92
+2025-12-17,Basil bunches,GreenLeaf Herbs,4,2.54
+2025-12-17,Roma tomatoes,FreshFarm Produce,13,1.31
+2025-12-18,Sourdough loaves,Dawn Bakery,10,4.21
+2025-12-18,Olive oil 1L,Mediterranean Oils Co,3,19.80
+2025-12-18,Basil bunches,GreenLeaf Herbs,3,2.57
+2025-12-18,Chicken breasts 5lb,Hillside Poultry,4,15.31
+2025-12-19,Sourdough loaves,Dawn Bakery,8,4.35
+2025-12-19,Roma tomatoes,FreshFarm Produce,15,1.32
+2025-12-19,Olive oil 1L,Mediterranean Oils Co,2,19.34
+2025-12-20,Chicken breasts 5lb,Hillside Poultry,2,15.16
+2025-12-20,Sourdough loaves,Dawn Bakery,4,4.24
+2025-12-21,Heavy cream pints,Meadow Dairy,2,4.04
+2025-12-21,Roma tomatoes,FreshFarm Produce,8,1.34
+2025-12-21,Basil bunches,GreenLeaf Herbs,6,2.48
+2025-12-21,Olive oil 1L,Mediterranean Oils Co,1,19.24
+2025-12-22,Roma tomatoes,FreshFarm Produce,14,1.33
+2025-12-22,Sourdough loaves,Dawn Bakery,5,4.23
+2025-12-23,Heavy cream pints,Meadow Dairy,6,4.11
+2025-12-23,Olive oil 1L,Mediterranean Oils Co,3,19.25
+2025-12-23,Sourdough loaves,Dawn Bakery,4,4.34
+2025-12-24,Basil bunches,GreenLeaf Herbs,6,2.58
+2025-12-24,Sourdough loaves,Dawn Bakery,7,4.19
+2025-12-25,Olive oil 1L,Mediterranean Oils Co,1,19.45
+2025-12-25,Heavy cream pints,Meadow Dairy,4,4.00
+2025-12-25,Roma tomatoes,FreshFarm Produce,12,1.31
+2025-12-26,Sourdough loaves,Dawn Bakery,7,4.32
+2025-12-26,Basil bunches,GreenLeaf Herbs,4,2.59
+2025-12-26,Chicken breasts 5lb,Hillside Poultry,2,15.66
+2025-12-26,Heavy cream pints,Meadow Dairy,5,3.95
+2025-12-27,Basil bunches,GreenLeaf Herbs,8,2.49
+2025-12-27,Sourdough loaves,Dawn Bakery,6,4.39
+2025-12-29,Chicken breasts 5lb,Hillside Poultry,2,15.48
+2025-12-29,Olive oil 1L,Mediterranean Oils Co,1,19.30
+2025-12-29,Roma tomatoes,FreshFarm Produce,10,1.35
+2025-12-29,Heavy cream pints,Meadow Dairy,2,4.08
+2025-12-30,Basil bunches,GreenLeaf Herbs,5,2.50
+2025-12-30,Sourdough loaves,Dawn Bakery,9,4.29
+2025-12-31,Sourdough loaves,Dawn Bakery,9,4.30
+2025-12-31,Roma tomatoes,FreshFarm Produce,9,1.33
+2026-01-01,Sourdough loaves,Dawn Bakery,5,4.43
+2026-01-01,Roma tomatoes,FreshFarm Produce,13,1.30
+2026-01-01,Chicken breasts 5lb,Hillside Poultry,4,15.89
+2026-01-01,Olive oil 1L,Mediterranean Oils Co,3,19.68
+2026-01-02,Olive oil 1L,Mediterranean Oils Co,1,19.17
+2026-01-02,Chicken breasts 5lb,Hillside Poultry,1,15.19
+2026-01-02,Heavy cream pints,Meadow Dairy,3,3.97
+2026-01-03,Chicken breasts 5lb,Hillside Poultry,3,15.18
+2026-01-03,Olive oil 1L,Mediterranean Oils Co,1,19.98
+2026-01-03,Heavy cream pints,Meadow Dairy,5,4.04
+2026-01-05,Roma tomatoes,FreshFarm Produce,12,1.34
+2026-01-05,Basil bunches,GreenLeaf Herbs,8,2.57
+2026-01-06,Roma tomatoes,FreshFarm Produce,11,1.28
+2026-01-06,Basil bunches,GreenLeaf Herbs,6,2.59
+2026-01-06,Olive oil 1L,Mediterranean Oils Co,3,19.48
+2026-01-06,Heavy cream pints,Meadow Dairy,3,4.00
+2026-01-07,Chicken breasts 5lb,Hillside Poultry,2,15.57
+2026-01-07,Heavy cream pints,Meadow Dairy,2,3.96
+2026-01-08,Roma tomatoes,FreshFarm Produce,11,1.28
+2026-01-08,Heavy cream pints,Meadow Dairy,5,3.96
+2026-01-09,Heavy cream pints,Meadow Dairy,2,4.15
+2026-01-09,Roma tomatoes,FreshFarm Produce,9,1.28
+2026-01-09,Olive oil 1L,Mediterranean Oils Co,3,19.13
+2026-01-10,Basil bunches,GreenLeaf Herbs,6,2.47
+2026-01-10,Roma tomatoes,FreshFarm Produce,14,1.28
+2026-01-10,Olive oil 1L,Mediterranean Oils Co,2,19.82
+2026-01-12,Heavy cream pints,Meadow Dairy,3,4.02
+2026-01-12,Chicken breasts 5lb,Hillside Poultry,4,15.32
+2026-01-12,Basil bunches,GreenLeaf Herbs,3,2.58
+2026-01-13,Sourdough loaves,Dawn Bakery,7,4.26
+2026-01-13,Heavy cream pints,Meadow Dairy,5,4.14
+2026-01-13,Basil bunches,GreenLeaf Herbs,5,2.46
+2026-01-13,Olive oil 1L,Mediterranean Oils Co,2,19.33
+2026-01-14,Heavy cream pints,Meadow Dairy,6,3.99
+2026-01-14,Sourdough loaves,Dawn Bakery,7,4.39
+2026-01-15,Olive oil 1L,Mediterranean Oils Co,3,19.92
+2026-01-15,Chicken breasts 5lb,Hillside Poultry,3,15.36
+2026-01-15,Sourdough loaves,Dawn Bakery,6,4.23
+2026-01-15,Basil bunches,GreenLeaf Herbs,3,2.54
+2026-01-16,Roma tomatoes,FreshFarm Produce,11,1.34
+2026-01-16,Chicken breasts 5lb,Hillside Poultry,1,15.94
+2026-01-16,Olive oil 1L,Mediterranean Oils Co,1,19.18
+2026-01-17,Sourdough loaves,Dawn Bakery,10,4.33
+2026-01-17,Roma tomatoes,FreshFarm Produce,10,1.31
+2026-01-17,Basil bunches,GreenLeaf Herbs,7,2.48
+2026-01-19,Heavy cream pints,Meadow Dairy,6,4.10
+2026-01-19,Olive oil 1L,Mediterranean Oils Co,3,19.53
+2026-01-19,Roma tomatoes,FreshFarm Produce,15,1.35
+2026-01-19,Sourdough loaves,Dawn Bakery,5,4.32
+2026-01-20,Roma tomatoes,FreshFarm Produce,11,1.29
+2026-01-20,Heavy cream pints,Meadow Dairy,5,3.94
+2026-01-20,Sourdough loaves,Dawn Bakery,8,4.19
+2026-01-21,Basil bunches,GreenLeaf Herbs,5,2.56
+2026-01-21,Olive oil 1L,Mediterranean Oils Co,1,18.97
+2026-01-22,Heavy cream pints,Meadow Dairy,2,4.13
+2026-01-22,Basil bunches,GreenLeaf Herbs,8,2.51
+2026-01-22,Roma tomatoes,FreshFarm Produce,9,1.31
+2026-01-22,Olive oil 1L,Mediterranean Oils Co,2,19.28
+2026-01-23,Basil bunches,GreenLeaf Herbs,6,2.57
+2026-01-23,Chicken breasts 5lb,Hillside Poultry,2,15.65
+2026-01-24,Sourdough loaves,Dawn Bakery,10,4.35
+2026-01-24,Heavy cream pints,Meadow Dairy,4,3.98
+2026-01-24,Olive oil 1L,Mediterranean Oils Co,2,19.72
+2026-01-24,Roma tomatoes,FreshFarm Produce,8,1.29
+2026-01-25,Chicken breasts 5lb,Hillside Poultry,2,15.61
+2026-01-25,Sourdough loaves,Dawn Bakery,4,4.35
+2026-01-25,Roma tomatoes,FreshFarm Produce,10,1.35
+2026-01-25,Heavy cream pints,Meadow Dairy,2,4.01
+2026-01-26,Olive oil 1L,Mediterranean Oils Co,1,19.09
+2026-01-26,Heavy cream pints,Meadow Dairy,4,4.12
+2026-01-27,Roma tomatoes,FreshFarm Produce,9,1.30
+2026-01-27,Olive oil 1L,Mediterranean Oils Co,1,19.30
+2026-01-27,Basil bunches,GreenLeaf Herbs,3,2.56
+2026-01-28,Chicken breasts 5lb,Hillside Poultry,4,15.86
+2026-01-28,Heavy cream pints,Meadow Dairy,4,4.14
+2026-01-28,Basil bunches,GreenLeaf Herbs,3,2.53
+2026-01-29,Sourdough loaves,Dawn Bakery,10,4.30
+2026-01-29,Basil bunches,GreenLeaf Herbs,5,2.57
+2026-01-29,Heavy cream pints,Meadow Dairy,4,3.94
+2026-01-30,Roma tomatoes,FreshFarm Produce,14,1.29
+2026-01-30,Olive oil 1L,Mediterranean Oils Co,1,19.09
+2026-01-31,Roma tomatoes,FreshFarm Produce,10,1.28
+2026-01-31,Olive oil 1L,Mediterranean Oils Co,2,19.58
+2026-01-31,Chicken breasts 5lb,Hillside Poultry,1,15.21
+2026-01-31,Sourdough loaves,Dawn Bakery,5,4.27
+2026-02-02,Heavy cream pints,Meadow Dairy,3,4.02
+2026-02-02,Sourdough loaves,Dawn Bakery,7,4.23
+2026-02-02,Olive oil 1L,Mediterranean Oils Co,2,19.62
+2026-02-02,Chicken breasts 5lb,Hillside Poultry,3,15.27
+2026-02-03,Chicken breasts 5lb,Hillside Poultry,4,15.39
+2026-02-03,Roma tomatoes,FreshFarm Produce,8,1.30
+2026-02-04,Basil bunches,GreenLeaf Herbs,6,2.60
+2026-02-04,Olive oil 1L,Mediterranean Oils Co,2,19.92
+2026-02-05,Chicken breasts 5lb,Hillside Poultry,4,15.21
+2026-02-05,Heavy cream pints,Meadow Dairy,5,3.99
+2026-02-05,Olive oil 1L,Mediterranean Oils Co,2,19.39
+2026-02-06,Olive oil 1L,Mediterranean Oils Co,1,19.50
+2026-02-06,Chicken breasts 5lb,Hillside Poultry,1,15.87
+2026-02-07,Heavy cream pints,Meadow Dairy,4,3.97
+2026-02-07,Roma tomatoes,FreshFarm Produce,14,1.34
+2026-02-08,Basil bunches,GreenLeaf Herbs,6,2.58
+2026-02-08,Sourdough loaves,Dawn Bakery,9,4.44
+2026-02-08,Roma tomatoes,FreshFarm Produce,15,1.35
+2026-02-08,Heavy cream pints,Meadow Dairy,3,4.08
+2026-02-09,Olive oil 1L,Mediterranean Oils Co,3,19.98
+2026-02-09,Roma tomatoes,FreshFarm Produce,16,1.29
+2026-02-09,Chicken breasts 5lb,Hillside Poultry,2,15.84
+2026-02-10,Chicken breasts 5lb,Hillside Poultry,2,15.97
+2026-02-10,Basil bunches,GreenLeaf Herbs,4,2.60
+2026-02-11,Roma tomatoes,FreshFarm Produce,14,1.29
+2026-02-11,Chicken breasts 5lb,Hillside Poultry,2,15.31
+2026-02-12,Olive oil 1L,Mediterranean Oils Co,2,19.41
+2026-02-12,Heavy cream pints,Meadow Dairy,4,4.08
+2026-02-12,Roma tomatoes,FreshFarm Produce,8,1.32
+2026-02-12,Chicken breasts 5lb,Hillside Poultry,4,15.83
+2026-02-13,Chicken breasts 5lb,Hillside Poultry,1,15.26
+2026-02-13,Basil bunches,GreenLeaf Herbs,7,2.60
+2026-02-14,Olive oil 1L,Mediterranean Oils Co,2,19.96
+2026-02-14,Sourdough loaves,Dawn Bakery,9,4.27
+2026-02-16,Chicken breasts 5lb,Hillside Poultry,4,15.49
+2026-02-16,Roma tomatoes,FreshFarm Produce,13,1.29
+2026-02-16,Basil bunches,GreenLeaf Herbs,3,2.56
+2026-02-16,Heavy cream pints,Meadow Dairy,4,4.12
+2026-02-17,Roma tomatoes,FreshFarm Produce,15,1.31
+2026-02-17,Olive oil 1L,Mediterranean Oils Co,3,19.93
+2026-02-17,Sourdough loaves,Dawn Bakery,10,4.23
+2026-02-18,Basil bunches,GreenLeaf Herbs,6,2.60
+2026-02-18,Olive oil 1L,Mediterranean Oils Co,2,19.84
+2026-02-19,Heavy cream pints,Meadow Dairy,3,3.99
+2026-02-19,Chicken breasts 5lb,Hillside Poultry,4,15.94
+2026-02-19,Roma tomatoes,FreshFarm Produce,16,1.34
+2026-02-20,Roma tomatoes,FreshFarm Produce,16,1.29
+2026-02-20,Sourdough loaves,Dawn Bakery,10,4.31
+2026-02-20,Basil bunches,GreenLeaf Herbs,7,2.58
+2026-02-21,Basil bunches,GreenLeaf Herbs,4,2.59
+2026-02-21,Heavy cream pints,Meadow Dairy,3,4.14
+2026-02-23,Olive oil 1L,Mediterranean Oils Co,2,19.29
+2026-02-23,Basil bunches,GreenLeaf Herbs,8,2.54
+2026-02-24,Heavy cream pints,Meadow Dairy,5,4.01
+2026-02-24,Roma tomatoes,FreshFarm Produce,10,1.33
+2026-02-25,Sourdough loaves,Dawn Bakery,10,4.29
+2026-02-25,Heavy cream pints,Meadow Dairy,2,4.16
+2026-02-25,Olive oil 1L,Mediterranean Oils Co,2,19.30
+2026-02-26,Basil bunches,GreenLeaf Herbs,4,2.57
+2026-02-26,Sourdough loaves,Dawn Bakery,9,4.42
+2026-02-27,Heavy cream pints,Meadow Dairy,5,4.01
+2026-02-27,Basil bunches,GreenLeaf Herbs,8,2.54
+2026-02-28,Chicken breasts 5lb,Hillside Poultry,1,15.71
+2026-02-28,Basil bunches,GreenLeaf Herbs,7,2.49
+2026-03-01,Heavy cream pints,Meadow Dairy,4,4.17
+2026-03-01,Olive oil 1L,Mediterranean Oils Co,1,19.56
+2026-03-01,Chicken breasts 5lb,Hillside Poultry,4,15.61
+2026-03-02,Roma tomatoes,FreshFarm Produce,12,1.34
+2026-03-02,Heavy cream pints,Meadow Dairy,2,4.03
+2026-03-02,Olive oil 1L,Mediterranean Oils Co,2,19.59
+2026-03-02,Chicken breasts 5lb,Hillside Poultry,3,16.07
+2026-03-03,Olive oil 1L,Mediterranean Oils Co,1,19.22
+2026-03-03,Heavy cream pints,Meadow Dairy,6,4.17
+2026-03-03,Basil bunches,GreenLeaf Herbs,5,2.53
+2026-03-04,Basil bunches,GreenLeaf Herbs,6,2.51
+2026-03-04,Roma tomatoes,FreshFarm Produce,8,1.32
+2026-03-04,Chicken breasts 5lb,Hillside Poultry,2,15.71
+2026-03-04,Heavy cream pints,Meadow Dairy,3,4.04
+2026-03-05,Sourdough loaves,Dawn Bakery,5,4.30
+2026-03-05,Chicken breasts 5lb,Hillside Poultry,2,15.94
+2026-03-05,Olive oil 1L,Mediterranean Oils Co,2,19.38
+2026-03-05,Heavy cream pints,Meadow Dairy,4,4.00
+2026-03-06,Sourdough loaves,Dawn Bakery,6,4.24
+2026-03-06,Basil bunches,GreenLeaf Herbs,5,2.50
+2026-03-06,Olive oil 1L,Mediterranean Oils Co,2,19.52
+2026-03-06,Chicken breasts 5lb,Hillside Poultry,3,15.52
+2026-03-07,Roma tomatoes,FreshFarm Produce,9,1.35
+2026-03-07,Chicken breasts 5lb,Hillside Poultry,2,15.61
+2026-03-07,Heavy cream pints,Meadow Dairy,5,4.08
+2026-03-09,Roma tomatoes,FreshFarm Produce,13,1.36
+2026-03-09,Basil bunches,GreenLeaf Herbs,7,2.53
+2026-03-09,Sourdough loaves,Dawn Bakery,7,4.44
+2026-03-10,Olive oil 1L,Mediterranean Oils Co,2,19.92
+2026-03-10,Basil bunches,GreenLeaf Herbs,4,2.52
+2026-03-11,Heavy cream pints,Meadow Dairy,3,4.07
+2026-03-11,Roma tomatoes,FreshFarm Produce,10,1.34
+2026-03-11,Sourdough loaves,Dawn Bakery,5,4.36
+2026-03-12,Roma tomatoes,FreshFarm Produce,14,1.34
+2026-03-12,Basil bunches,GreenLeaf Herbs,6,2.53
+2026-03-12,Chicken breasts 5lb,Hillside Poultry,1,15.53
+2026-03-13,Basil bunches,GreenLeaf Herbs,7,2.58
+2026-03-13,Olive oil 1L,Mediterranean Oils Co,3,19.27
+2026-03-13,Roma tomatoes,FreshFarm Produce,11,1.29
+2026-03-13,Heavy cream pints,Meadow Dairy,4,4.02
+2026-03-14,Basil bunches,GreenLeaf Herbs,5,2.54
+2026-03-14,Roma tomatoes,FreshFarm Produce,8,1.30
+2026-03-14,Chicken breasts 5lb,Hillside Poultry,3,15.46
+2026-03-16,Sourdough loaves,Dawn Bakery,5,4.44
+2026-03-16,Heavy cream pints,Meadow Dairy,5,4.04
+2026-03-16,Olive oil 1L,Mediterranean Oils Co,1,19.45
+2026-03-16,Basil bunches,GreenLeaf Herbs,6,2.50
+2026-03-17,Basil bunches,GreenLeaf Herbs,4,2.58
+2026-03-17,Heavy cream pints,Meadow Dairy,2,4.01
+2026-03-18,Sourdough loaves,Dawn Bakery,10,4.40
+2026-03-18,Basil bunches,GreenLeaf Herbs,8,2.48
+2026-03-18,Roma tomatoes,FreshFarm Produce,16,1.31
+2026-03-18,Heavy cream pints,Meadow Dairy,6,4.11
+2026-03-19,Heavy cream pints,Meadow Dairy,2,4.12
+2026-03-19,Roma tomatoes,FreshFarm Produce,9,1.29
+2026-03-20,Chicken breasts 5lb,Hillside Poultry,4,15.68
+2026-03-20,Heavy cream pints,Meadow Dairy,3,4.13
+2026-03-20,Roma tomatoes,FreshFarm Produce,8,1.34
+2026-03-21,Chicken breasts 5lb,Hillside Poultry,2,15.74
+2026-03-21,Roma tomatoes,FreshFarm Produce,9,1.32
+2026-03-21,Olive oil 1L,Mediterranean Oils Co,3,19.62
+2026-03-23,Roma tomatoes,FreshFarm Produce,11,1.30
+2026-03-23,Chicken breasts 5lb,Hillside Poultry,2,15.88
+2026-03-24,Heavy cream pints,Meadow Dairy,6,4.00
+2026-03-24,Chicken breasts 5lb,Hillside Poultry,2,15.63
+2026-03-24,Olive oil 1L,Mediterranean Oils Co,2,19.82
+2026-03-25,Basil bunches,GreenLeaf Herbs,3,2.57
+2026-03-25,Roma tomatoes,FreshFarm Produce,15,1.35
+2026-03-25,Sourdough loaves,Dawn Bakery,4,4.26
+2026-03-26,Roma tomatoes,FreshFarm Produce,12,1.30
+2026-03-26,Heavy cream pints,Meadow Dairy,2,4.03
+2026-03-26,Olive oil 1L,Mediterranean Oils Co,1,19.17
+2026-03-26,Chicken breasts 5lb,Hillside Poultry,3,15.97
+2026-03-27,Heavy cream pints,Meadow Dairy,2,4.14
+2026-03-27,Olive oil 1L,Mediterranean Oils Co,1,20.00
+2026-03-27,Chicken breasts 5lb,Hillside Poultry,2,15.20
+2026-03-28,Heavy cream pints,Meadow Dairy,6,4.17
+2026-03-28,Basil bunches,GreenLeaf Herbs,8,2.51
+2026-03-28,Olive oil 1L,Mediterranean Oils Co,2,19.16
+2026-03-28,Sourdough loaves,Dawn Bakery,7,4.27
+2026-03-30,Olive oil 1L,Mediterranean Oils Co,3,19.94
+2026-03-30,Chicken breasts 5lb,Hillside Poultry,2,15.98
+2026-03-30,Sourdough loaves,Dawn Bakery,9,4.25
+2026-03-31,Roma tomatoes,FreshFarm Produce,15,1.36
+2026-03-31,Basil bunches,GreenLeaf Herbs,8,2.59
+2026-03-31,Heavy cream pints,Meadow Dairy,6,4.07
+2026-03-31,Sourdough loaves,Dawn Bakery,6,4.32
+2026-04-01,Roma tomatoes,FreshFarm Produce,14,1.30
+2026-04-01,Basil bunches,GreenLeaf Herbs,3,2.55
+2026-04-01,Chicken breasts 5lb,Hillside Poultry,3,15.48
+2026-04-01,Sourdough loaves,Dawn Bakery,10,4.24
+2026-04-02,Sourdough loaves,Dawn Bakery,8,4.45
+2026-04-02,Heavy cream pints,Meadow Dairy,6,4.10
+2026-04-02,Basil bunches,GreenLeaf Herbs,8,2.50
+2026-04-02,Olive oil 1L,Mediterranean Oils Co,2,19.94
+2026-04-03,Heavy cream pints,Meadow Dairy,6,4.17
+2026-04-03,Chicken breasts 5lb,Hillside Poultry,1,16.04
+2026-04-03,Basil bunches,GreenLeaf Herbs,4,2.48
+2026-04-04,Chicken breasts 5lb,Hillside Poultry,3,15.92
+2026-04-04,Heavy cream pints,Meadow Dairy,4,4.04
+2026-04-04,Basil bunches,GreenLeaf Herbs,4,2.49
+2026-04-04,Roma tomatoes,FreshFarm Produce,14,1.33
+2026-04-06,Roma tomatoes,FreshFarm Produce,15,1.33
+2026-04-06,Chicken breasts 5lb,Hillside Poultry,4,15.33
+2026-04-07,Olive oil 1L,Mediterranean Oils Co,1,19.96
+2026-04-07,Roma tomatoes,FreshFarm Produce,14,1.30
+2026-04-07,Chicken breasts 5lb,Hillside Poultry,1,15.28
+2026-04-08,Sourdough loaves,Dawn Bakery,8,4.40
+2026-04-08,Heavy cream pints,Meadow Dairy,5,4.11
+2026-04-09,Olive oil 1L,Mediterranean Oils Co,2,20.07
+2026-04-09,Roma tomatoes,FreshFarm Produce,15,1.33
+2026-04-09,Basil bunches,GreenLeaf Herbs,5,2.58
+2026-04-10,Chicken breasts 5lb,Hillside Poultry,3,15.45
+2026-04-10,Roma tomatoes,FreshFarm Produce,12,1.32
+2026-04-10,Sourdough loaves,Dawn Bakery,6,4.37
+2026-04-10,Olive oil 1L,Mediterranean Oils Co,1,19.91
+2026-04-11,Chicken breasts 5lb,Hillside Poultry,4,15.98
+2026-04-11,Basil bunches,GreenLeaf Herbs,7,2.50
+2026-04-13,Chicken breasts 5lb,Hillside Poultry,2,15.66
+2026-04-13,Basil bunches,GreenLeaf Herbs,3,2.58
+2026-04-14,Roma tomatoes,FreshFarm Produce,15,1.35
+2026-04-14,Sourdough loaves,Dawn Bakery,8,4.35
+2026-04-14,Heavy cream pints,Meadow Dairy,3,4.20
+2026-04-15,Roma tomatoes,FreshFarm Produce,14,1.33
+2026-04-15,Sourdough loaves,Dawn Bakery,7,4.45
+2026-04-15,Heavy cream pints,Meadow Dairy,3,4.19
+2026-04-16,Sourdough loaves,Dawn Bakery,8,4.33
+2026-04-16,Basil bunches,GreenLeaf Herbs,5,2.57
+2026-04-16,Heavy cream pints,Meadow Dairy,5,4.10
+2026-04-16,Roma tomatoes,FreshFarm Produce,11,1.32
+2026-04-17,Chicken breasts 5lb,Hillside Poultry,2,15.65
+2026-04-17,Olive oil 1L,Mediterranean Oils Co,3,19.28
+2026-04-17,Sourdough loaves,Dawn Bakery,9,4.41
+2026-04-18,Olive oil 1L,Mediterranean Oils Co,3,19.95
+2026-04-18,Sourdough loaves,Dawn Bakery,5,4.40
+2026-04-18,Heavy cream pints,Meadow Dairy,4,4.03
+2026-04-18,Chicken breasts 5lb,Hillside Poultry,2,15.86
+2026-04-19,Basil bunches,GreenLeaf Herbs,5,2.50
+2026-04-19,Sourdough loaves,Dawn Bakery,8,4.38
+2026-04-19,Olive oil 1L,Mediterranean Oils Co,3,19.76
+2026-04-19,Chicken breasts 5lb,Hillside Poultry,3,15.88
+2026-04-20,Roma tomatoes,FreshFarm Produce,10,1.29
+2026-04-20,Sourdough loaves,Dawn Bakery,4,4.25
+2026-04-20,Heavy cream pints,Meadow Dairy,3,4.03
+2026-04-21,Heavy cream pints,Meadow Dairy,4,4.17
+2026-04-21,Olive oil 1L,Mediterranean Oils Co,3,19.36
+2026-04-21,Basil bunches,GreenLeaf Herbs,6,2.49
+2026-04-22,Sourdough loaves,Dawn Bakery,9,4.45
+2026-04-22,Heavy cream pints,Meadow Dairy,5,4.13
+2026-04-23,Sourdough loaves,Dawn Bakery,4,4.41
+2026-04-23,Olive oil 1L,Mediterranean Oils Co,2,20.16
+2026-04-24,Heavy cream pints,Meadow Dairy,4,3.98
+2026-04-24,Olive oil 1L,Mediterranean Oils Co,2,19.35
+2026-04-24,Roma tomatoes,FreshFarm Produce,13,1.35
+2026-04-25,Sourdough loaves,Dawn Bakery,6,4.48
+2026-04-25,Heavy cream pints,Meadow Dairy,2,4.08
+2026-04-25,Basil bunches,GreenLeaf Herbs,4,2.51
+2026-04-25,Olive oil 1L,Mediterranean Oils Co,1,19.94
+2026-04-27,Olive oil 1L,Mediterranean Oils Co,3,19.27
+2026-04-27,Sourdough loaves,Dawn Bakery,4,4.45
+2026-04-27,Heavy cream pints,Meadow Dairy,3,4.06
+2026-04-28,Basil bunches,GreenLeaf Herbs,8,2.57
+2026-04-28,Olive oil 1L,Mediterranean Oils Co,3,19.81
+2026-04-29,Chicken breasts 5lb,Hillside Poultry,3,15.32
+2026-04-29,Sourdough loaves,Dawn Bakery,5,4.37
+2026-04-29,Olive oil 1L,Mediterranean Oils Co,3,19.71
+2026-04-30,Chicken breasts 5lb,Hillside Poultry,1,15.73
+2026-04-30,Sourdough loaves,Dawn Bakery,5,4.33
+2026-05-01,Olive oil 1L,Mediterranean Oils Co,3,19.45
+2026-05-01,Heavy cream pints,Meadow Dairy,6,4.12
+2026-05-01,Sourdough loaves,Dawn Bakery,9,4.46
+2026-05-01,Basil bunches,GreenLeaf Herbs,8,2.49
+2026-05-02,Chicken breasts 5lb,Hillside Poultry,3,16.16
+2026-05-02,Basil bunches,GreenLeaf Herbs,3,2.55
+2026-05-02,Sourdough loaves,Dawn Bakery,8,4.35
+2026-05-04,Sourdough loaves,Dawn Bakery,8,4.38
+2026-05-04,Olive oil 1L,Mediterranean Oils Co,1,19.70
+2026-05-05,Heavy cream pints,Meadow Dairy,2,4.12
+2026-05-05,Basil bunches,GreenLeaf Herbs,7,2.52
+2026-05-05,Olive oil 1L,Mediterranean Oils Co,3,19.79
+2026-05-06,Basil bunches,GreenLeaf Herbs,6,2.62
+2026-05-06,Heavy cream pints,Meadow Dairy,3,4.19
+2026-05-07,Heavy cream pints,Meadow Dairy,2,4.15
+2026-05-07,Chicken breasts 5lb,Hillside Poultry,3,15.72
+2026-05-07,Roma tomatoes,FreshFarm Produce,9,1.30
+2026-05-07,Olive oil 1L,Mediterranean Oils Co,2,19.26
+2026-05-08,Roma tomatoes,FreshFarm Produce,15,1.33
+2026-05-08,Sourdough loaves,Dawn Bakery,7,4.41
+2026-05-08,Basil bunches,GreenLeaf Herbs,6,2.54
+2026-05-08,Chicken breasts 5lb,Hillside Poultry,1,15.91
+2026-05-09,Heavy cream pints,Meadow Dairy,2,4.13
+2026-05-09,Sourdough loaves,Dawn Bakery,8,4.34
+2026-05-09,Roma tomatoes,FreshFarm Produce,12,1.31
+2026-05-09,Olive oil 1L,Mediterranean Oils Co,2,19.88
+2026-05-10,Chicken breasts 5lb,Hillside Poultry,2,15.73
+2026-05-10,Heavy cream pints,Meadow Dairy,5,4.03
+2026-05-10,Roma tomatoes,FreshFarm Produce,16,1.36
+2026-05-11,Heavy cream pints,Meadow Dairy,4,4.15
+2026-05-11,Basil bunches,GreenLeaf Herbs,3,2.63
+2026-05-11,Olive oil 1L,Mediterranean Oils Co,3,19.82
+2026-05-12,Roma tomatoes,FreshFarm Produce,14,1.30
+2026-05-12,Heavy cream pints,Meadow Dairy,2,4.12
+2026-05-13,Basil bunches,GreenLeaf Herbs,8,2.55
+2026-05-13,Olive oil 1L,Mediterranean Oils Co,1,20.15
+2026-05-13,Heavy cream pints,Meadow Dairy,3,4.03
+2026-05-14,Olive oil 1L,Mediterranean Oils Co,3,19.95
+2026-05-14,Basil bunches,GreenLeaf Herbs,7,2.61
+2026-05-14,Roma tomatoes,FreshFarm Produce,16,1.33
+2026-05-14,Chicken breasts 5lb,Hillside Poultry,1,15.38
+2026-05-15,Roma tomatoes,FreshFarm Produce,13,1.37
+2026-05-15,Basil bunches,GreenLeaf Herbs,8,2.51
+2026-05-15,Chicken breasts 5lb,Hillside Poultry,3,15.52
+2026-05-16,Roma tomatoes,FreshFarm Produce,12,1.33
+2026-05-16,Basil bunches,GreenLeaf Herbs,4,2.59
+2026-05-16,Olive oil 1L,Mediterranean Oils Co,2,19.83
+2026-05-16,Sourdough loaves,Dawn Bakery,7,4.45
+2026-05-18,Basil bunches,GreenLeaf Herbs,5,2.53
+2026-05-18,Heavy cream pints,Meadow Dairy,4,4.03
+2026-05-18,Chicken breasts 5lb,Hillside Poultry,4,16.09
+2026-05-19,Olive oil 1L,Mediterranean Oils Co,1,19.82
+2026-05-19,Heavy cream pints,Meadow Dairy,2,4.15
+2026-05-19,Chicken breasts 5lb,Hillside Poultry,2,16.06
+2026-05-20,Basil bunches,GreenLeaf Herbs,3,2.50
+2026-05-20,Olive oil 1L,Mediterranean Oils Co,3,20.15
+2026-05-20,Roma tomatoes,FreshFarm Produce,14,1.30
+2026-05-20,Sourdough loaves,Dawn Bakery,5,4.45
+2026-05-21,Sourdough loaves,Dawn Bakery,8,4.39
+2026-05-21,Olive oil 1L,Mediterranean Oils Co,1,19.73
+2026-05-22,Chicken breasts 5lb,Hillside Poultry,1,15.43
+2026-05-22,Basil bunches,GreenLeaf Herbs,7,2.55
+2026-05-22,Olive oil 1L,Mediterranean Oils Co,1,19.21
+2026-05-23,Heavy cream pints,Meadow Dairy,6,4.03
+2026-05-23,Basil bunches,GreenLeaf Herbs,8,2.63
+2026-05-23,Sourdough loaves,Dawn Bakery,5,4.47
+2026-05-23,Chicken breasts 5lb,Hillside Poultry,4,15.96
+2026-05-24,Basil bunches,GreenLeaf Herbs,5,2.52
+2026-05-24,Chicken breasts 5lb,Hillside Poultry,1,15.64
+2026-05-25,Basil bunches,GreenLeaf Herbs,6,2.56
+2026-05-25,Sourdough loaves,Dawn Bakery,4,4.47
+2026-05-25,Olive oil 1L,Mediterranean Oils Co,2,20.29
+2026-05-25,Heavy cream pints,Meadow Dairy,6,4.02
+2026-05-26,Olive oil 1L,Mediterranean Oils Co,2,19.93
+2026-05-26,Heavy cream pints,Meadow Dairy,2,4.13
+2026-05-26,Basil bunches,GreenLeaf Herbs,6,2.57
+2026-05-26,Chicken breasts 5lb,Hillside Poultry,2,16.17
+2026-05-27,Chicken breasts 5lb,Hillside Poultry,1,16.01
+2026-05-27,Olive oil 1L,Mediterranean Oils Co,1,19.76
+2026-05-27,Sourdough loaves,Dawn Bakery,5,4.36
+2026-05-27,Basil bunches,GreenLeaf Herbs,8,2.50
+2026-05-28,Basil bunches,GreenLeaf Herbs,7,2.51
+2026-05-28,Heavy cream pints,Meadow Dairy,2,4.16
+2026-05-28,Sourdough loaves,Dawn Bakery,7,4.42
+2026-05-29,Heavy cream pints,Meadow Dairy,5,4.15
+2026-05-29,Roma tomatoes,FreshFarm Produce,10,1.31
+2026-05-29,Chicken breasts 5lb,Hillside Poultry,4,15.88
+2026-05-30,Basil bunches,GreenLeaf Herbs,7,2.51
+2026-05-30,Roma tomatoes,FreshFarm Produce,16,1.31
+2026-06-01,Basil bunches,GreenLeaf Herbs,7,2.63
+2026-06-01,Roma tomatoes,FreshFarm Produce,8,1.37
+2026-06-01,Heavy cream pints,Meadow Dairy,4,4.21
+2026-06-01,Chicken breasts 5lb,Hillside Poultry,2,16.21
+2026-06-02,Sourdough loaves,Dawn Bakery,10,4.31
+2026-06-02,Chicken breasts 5lb,Hillside Poultry,2,15.73
+2026-06-02,Heavy cream pints,Meadow Dairy,3,4.20
+2026-06-03,Heavy cream pints,Meadow Dairy,4,4.18
+2026-06-03,Sourdough loaves,Dawn Bakery,8,4.50
+2026-06-03,Olive oil 1L,Mediterranean Oils Co,1,19.93
+2026-06-03,Roma tomatoes,FreshFarm Produce,10,1.33
+2026-06-04,Roma tomatoes,FreshFarm Produce,16,1.34
+2026-06-04,Basil bunches,GreenLeaf Herbs,4,2.60
+2026-06-05,Roma tomatoes,FreshFarm Produce,16,1.35
+2026-06-05,Basil bunches,GreenLeaf Herbs,3,2.57
+2026-06-05,Chicken breasts 5lb,Hillside Poultry,2,15.45
+2026-06-05,Olive oil 1L,Mediterranean Oils Co,3,20.28
+2026-06-06,Heavy cream pints,Meadow Dairy,4,4.13
+2026-06-06,Chicken breasts 5lb,Hillside Poultry,4,16.14
+2026-06-08,Chicken breasts 5lb,Hillside Poultry,3,15.75
+2026-06-08,Olive oil 1L,Mediterranean Oils Co,1,19.81
+2026-06-08,Roma tomatoes,FreshFarm Produce,9,1.37
+2026-06-09,Sourdough loaves,Dawn Bakery,4,4.34
+2026-06-09,Heavy cream pints,Meadow Dairy,2,4.18
+2026-06-09,Chicken breasts 5lb,Hillside Poultry,1,15.88
+2026-06-10,Roma tomatoes,FreshFarm Produce,14,1.36
+2026-06-10,Chicken breasts 5lb,Hillside Poultry,2,15.69
+2026-06-10,Basil bunches,GreenLeaf Herbs,7,2.56
+2026-06-10,Olive oil 1L,Mediterranean Oils Co,3,19.56
+2026-06-11,Sourdough loaves,Dawn Bakery,7,4.52
+2026-06-11,Olive oil 1L,Mediterranean Oils Co,2,20.12
+2026-06-11,Heavy cream pints,Meadow Dairy,6,4.14
+2026-06-12,Basil bunches,GreenLeaf Herbs,5,2.54
+2026-06-12,Olive oil 1L,Mediterranean Oils Co,3,19.92
+2026-06-12,Chicken breasts 5lb,Hillside Poultry,2,15.72
+2026-06-13,Roma tomatoes,FreshFarm Produce,9,1.37
+2026-06-13,Basil bunches,GreenLeaf Herbs,6,2.53
+2026-06-13,Chicken breasts 5lb,Hillside Poultry,1,16.07
+2026-06-13,Olive oil 1L,Mediterranean Oils Co,3,19.46
+2026-06-15,Basil bunches,GreenLeaf Herbs,6,2.63
+2026-06-15,Chicken breasts 5lb,Hillside Poultry,3,15.45
+2026-06-16,Olive oil 1L,Mediterranean Oils Co,3,19.95
+2026-06-16,Roma tomatoes,FreshFarm Produce,14,1.33
+2026-06-17,Heavy cream pints,Meadow Dairy,2,4.23
+2026-06-17,Sourdough loaves,Dawn Bakery,10,4.50
+2026-06-17,Olive oil 1L,Mediterranean Oils Co,2,19.47
+2026-06-17,Chicken breasts 5lb,Hillside Poultry,2,15.76
+2026-06-18,Sourdough loaves,Dawn Bakery,8,4.47
+2026-06-18,Olive oil 1L,Mediterranean Oils Co,1,19.85
+2026-06-18,Basil bunches,GreenLeaf Herbs,8,2.59
+2026-06-18,Roma tomatoes,FreshFarm Produce,11,1.31
+2026-06-19,Roma tomatoes,FreshFarm Produce,13,1.36
+2026-06-19,Basil bunches,GreenLeaf Herbs,6,2.60
+2026-06-19,Heavy cream pints,Meadow Dairy,6,4.15
+2026-06-19,Sourdough loaves,Dawn Bakery,9,4.28
+2026-06-20,Roma tomatoes,FreshFarm Produce,16,1.32
+2026-06-20,Sourdough loaves,Dawn Bakery,6,4.50
+2026-06-22,Basil bunches,GreenLeaf Herbs,6,2.57
+2026-06-22,Sourdough loaves,Dawn Bakery,6,4.41
+2026-06-22,Heavy cream pints,Meadow Dairy,6,4.05
+2026-06-23,Sourdough loaves,Dawn Bakery,6,4.40
+2026-06-23,Roma tomatoes,FreshFarm Produce,16,1.37
+2026-06-24,Sourdough loaves,Dawn Bakery,7,4.44
+2026-06-24,Heavy cream pints,Meadow Dairy,3,4.14
+2026-06-24,Olive oil 1L,Mediterranean Oils Co,2,20.12
+2026-06-25,Chicken breasts 5lb,Hillside Poultry,1,15.47
+2026-06-25,Sourdough loaves,Dawn Bakery,10,4.37
+2026-06-25,Roma tomatoes,FreshFarm Produce,11,1.38
+2026-06-25,Basil bunches,GreenLeaf Herbs,6,2.62
+2026-06-26,Sourdough loaves,Dawn Bakery,6,4.44
+2026-06-26,Heavy cream pints,Meadow Dairy,2,4.07
+2026-06-26,Roma tomatoes,FreshFarm Produce,13,1.33
+2026-06-27,Sourdough loaves,Dawn Bakery,6,4.39
+2026-06-27,Basil bunches,GreenLeaf Herbs,7,2.53
+2026-06-29,Heavy cream pints,Meadow Dairy,3,4.06
+2026-06-29,Basil bunches,GreenLeaf Herbs,4,2.63
+2026-06-29,Chicken breasts 5lb,Hillside Poultry,2,15.57
+2026-06-29,Olive oil 1L,Mediterranean Oils Co,2,20.21
+2026-06-30,Roma tomatoes,FreshFarm Produce,15,1.37
+2026-06-30,Heavy cream pints,Meadow Dairy,6,4.15
+2026-07-01,Chicken breasts 5lb,Hillside Poultry,4,15.98
+2026-07-01,Olive oil 1L,Mediterranean Oils Co,3,20.35
+2026-07-02,Chicken breasts 5lb,Hillside Poultry,2,15.78
+2026-07-02,Basil bunches,GreenLeaf Herbs,6,2.52
+2026-07-02,Olive oil 1L,Mediterranean Oils Co,3,19.88
+2026-07-03,Sourdough loaves,Dawn Bakery,9,4.39
+2026-07-03,Olive oil 1L,Mediterranean Oils Co,2,20.21
+2026-07-04,Heavy cream pints,Meadow Dairy,2,4.13
+2026-07-04,Sourdough loaves,Dawn Bakery,5,4.29
+2026-07-06,Olive oil 1L,Mediterranean Oils Co,2,20.03
+2026-07-06,Heavy cream pints,Meadow Dairy,4,4.07
+2026-07-07,Olive oil 1L,Mediterranean Oils Co,2,20.41
+2026-07-07,Chicken breasts 5lb,Hillside Poultry,4,15.75
+2026-07-08,Basil bunches,GreenLeaf Herbs,6,2.56
+2026-07-08,Chicken breasts 5lb,Hillside Poultry,2,15.68
+2026-07-08,Olive oil 1L,Mediterranean Oils Co,3,19.99
+2026-07-09,Basil bunches,GreenLeaf Herbs,6,2.59
+2026-07-09,Roma tomatoes,FreshFarm Produce,10,1.32
+2026-07-09,Olive oil 1L,Mediterranean Oils Co,1,19.88
+2026-07-09,Sourdough loaves,Dawn Bakery,7,4.33
+2026-07-10,Heavy cream pints,Meadow Dairy,4,4.15
+2026-07-10,Sourdough loaves,Dawn Bakery,6,4.48
+2026-07-11,Sourdough loaves,Dawn Bakery,9,4.39
+2026-07-11,Heavy cream pints,Meadow Dairy,3,4.06
+2026-07-11,Roma tomatoes,FreshFarm Produce,15,1.37
+2026-07-12,Chicken breasts 5lb,Hillside Poultry,3,15.66
+2026-07-12,Olive oil 1L,Mediterranean Oils Co,2,19.97
+2026-07-13,Roma tomatoes,FreshFarm Produce,11,1.33
+2026-07-13,Chicken breasts 5lb,Hillside Poultry,2,15.94
+2026-07-13,Heavy cream pints,Meadow Dairy,4,4.25
+2026-07-14,Olive oil 1L,Mediterranean Oils Co,2,20.21
+2026-07-14,Sourdough loaves,Dawn Bakery,7,4.51
+2026-07-14,Chicken breasts 5lb,Hillside Poultry,4,15.97
+2026-07-15,Basil bunches,GreenLeaf Herbs,7,2.60
+2026-07-15,Heavy cream pints,Meadow Dairy,2,4.12
+2026-07-15,Olive oil 1L,Mediterranean Oils Co,2,19.44
+2026-07-15,Sourdough loaves,Dawn Bakery,6,4.34
+2026-07-16,Olive oil 1L,Mediterranean Oils Co,2,20.34
+2026-07-16,Heavy cream pints,Meadow Dairy,6,4.20
+2026-07-16,Chicken breasts 5lb,Hillside Poultry,4,16.28
+2026-07-16,Basil bunches,GreenLeaf Herbs,3,2.53
+2026-07-17,Heavy cream pints,Meadow Dairy,2,4.18
+2026-07-17,Basil bunches,GreenLeaf Herbs,6,2.54
+2026-07-18,Roma tomatoes,FreshFarm Produce,15,1.38
+2026-07-18,Heavy cream pints,Meadow Dairy,2,4.15
+2026-07-19,Roma tomatoes,FreshFarm Produce,14,1.32
+2026-07-19,Heavy cream pints,Meadow Dairy,3,4.10
+2026-07-19,Olive oil 1L,Mediterranean Oils Co,2,20.17
+2026-07-19,Chicken breasts 5lb,Hillside Poultry,2,15.98
+2026-07-20,Basil bunches,GreenLeaf Herbs,5,2.56
+2026-07-20,Roma tomatoes,FreshFarm Produce,15,1.37
+2026-07-20,Sourdough loaves,Dawn Bakery,8,4.53
+2026-07-20,Olive oil 1L,Mediterranean Oils Co,3,20.39
+2026-07-21,Basil bunches,GreenLeaf Herbs,6,2.60
+2026-07-21,Sourdough loaves,Dawn Bakery,9,4.44
+2026-07-21,Heavy cream pints,Meadow Dairy,5,4.23
+2026-07-22,Heavy cream pints,Meadow Dairy,3,4.14
+2026-07-22,Sourdough loaves,Dawn Bakery,7,4.49
+2026-07-22,Olive oil 1L,Mediterranean Oils Co,2,19.69
+2026-07-22,Basil bunches,GreenLeaf Herbs,5,2.55
+2026-07-23,Roma tomatoes,FreshFarm Produce,10,1.37
+2026-07-23,Sourdough loaves,Dawn Bakery,7,4.37
+2026-07-24,Roma tomatoes,FreshFarm Produce,14,1.31
+2026-07-24,Chicken breasts 5lb,Hillside Poultry,2,16.13
+2026-07-24,Sourdough loaves,Dawn Bakery,8,4.48
+2026-07-24,Basil bunches,GreenLeaf Herbs,6,2.56
+2026-07-25,Chicken breasts 5lb,Hillside Poultry,4,16.06
+2026-07-25,Heavy cream pints,Meadow Dairy,3,4.22
+2026-07-25,Basil bunches,GreenLeaf Herbs,6,2.55
+2026-07-25,Roma tomatoes,FreshFarm Produce,16,1.35
+2026-07-26,Heavy cream pints,Meadow Dairy,4,4.20
+2026-07-26,Olive oil 1L,Mediterranean Oils Co,1,19.81
+2026-07-26,Sourdough loaves,Dawn Bakery,6,4.33
+2026-07-26,Chicken breasts 5lb,Hillside Poultry,4,15.53
+2026-07-27,Chicken breasts 5lb,Hillside Poultry,2,15.71
+2026-07-27,Olive oil 1L,Mediterranean Oils Co,3,19.41
+2026-07-27,Heavy cream pints,Meadow Dairy,2,4.03
+2026-07-27,Roma tomatoes,FreshFarm Produce,10,1.33
+2026-07-28,Chicken breasts 5lb,Hillside Poultry,4,15.56
+2026-07-28,Roma tomatoes,FreshFarm Produce,14,1.32
+2026-07-28,Basil bunches,GreenLeaf Herbs,6,2.56
+2026-07-28,Sourdough loaves,Dawn Bakery,7,4.53
+2026-07-29,Roma tomatoes,FreshFarm Produce,14,1.31
+2026-07-29,Olive oil 1L,Mediterranean Oils Co,2,19.43
+2026-07-29,Heavy cream pints,Meadow Dairy,4,4.07
+2026-07-29,Chicken breasts 5lb,Hillside Poultry,1,16.15
+2026-07-30,Heavy cream pints,Meadow Dairy,5,4.12
+2026-07-30,Basil bunches,GreenLeaf Herbs,3,2.55
+2026-07-31,Chicken breasts 5lb,Hillside Poultry,2,15.89
+2026-07-31,Roma tomatoes,FreshFarm Produce,12,1.34
+2026-08-01,Basil bunches,GreenLeaf Herbs,8,2.56
+2026-08-01,Roma tomatoes,FreshFarm Produce,13,1.33
+2026-08-01,Sourdough loaves,Dawn Bakery,10,4.52
+2026-08-03,Basil bunches,GreenLeaf Herbs,4,2.57
+2026-08-03,Chicken breasts 5lb,Hillside Poultry,1,16.19
+2026-08-04,Basil bunches,GreenLeaf Herbs,8,2.60
+2026-08-04,Roma tomatoes,FreshFarm Produce,10,1.35
+2026-08-04,Sourdough loaves,Dawn Bakery,4,4.40
+2026-08-05,Basil bunches,GreenLeaf Herbs,7,2.53
+2026-08-05,Chicken breasts 5lb,Hillside Poultry,1,15.79
+2026-08-06,Olive oil 1L,Mediterranean Oils Co,1,20.20
+2026-08-06,Basil bunches,GreenLeaf Herbs,4,2.54
+2026-08-07,Sourdough loaves,Dawn Bakery,4,4.49
+2026-08-07,Olive oil 1L,Mediterranean Oils Co,2,20.19
+2026-08-07,Chicken breasts 5lb,Hillside Poultry,3,16.13
+2026-08-08,Chicken breasts 5lb,Hillside Poultry,4,15.98
+2026-08-08,Heavy cream pints,Meadow Dairy,3,4.09
+2026-08-10,Heavy cream pints,Meadow Dairy,6,4.24
+2026-08-10,Chicken breasts 5lb,Hillside Poultry,2,16.30
+2026-08-10,Olive oil 1L,Mediterranean Oils Co,1,19.50
+2026-08-11,Olive oil 1L,Mediterranean Oils Co,3,19.93
+2026-08-11,Heavy cream pints,Meadow Dairy,3,4.16
+2026-08-11,Sourdough loaves,Dawn Bakery,8,4.52
+2026-08-12,Sourdough loaves,Dawn Bakery,9,4.48
+2026-08-12,Basil bunches,GreenLeaf Herbs,6,2.66
+2026-08-12,Olive oil 1L,Mediterranean Oils Co,3,19.64
+2026-08-13,Sourdough loaves,Dawn Bakery,9,4.38
+2026-08-13,Basil bunches,GreenLeaf Herbs,3,2.57
+2026-08-13,Olive oil 1L,Mediterranean Oils Co,1,20.01
+2026-08-14,Basil bunches,GreenLeaf Herbs,4,2.65
+2026-08-14,Heavy cream pints,Meadow Dairy,3,4.07
+2026-08-15,Roma tomatoes,FreshFarm Produce,14,1.36
+2026-08-15,Sourdough loaves,Dawn Bakery,8,4.47
+2026-08-17,Olive oil 1L,Mediterranean Oils Co,1,20.10
+2026-08-17,Roma tomatoes,FreshFarm Produce,11,1.31
+2026-08-17,Heavy cream pints,Meadow Dairy,2,4.19
+2026-08-17,Sourdough loaves,Dawn Bakery,9,4.42
+2026-08-18,Olive oil 1L,Mediterranean Oils Co,2,20.25
+2026-08-18,Sourdough loaves,Dawn Bakery,10,4.51
+2026-08-19,Roma tomatoes,FreshFarm Produce,9,1.32
+2026-08-19,Sourdough loaves,Dawn Bakery,4,4.51
+2026-08-19,Olive oil 1L,Mediterranean Oils Co,3,20.47
+2026-08-19,Chicken breasts 5lb,Hillside Poultry,2,15.57
+2026-08-20,Chicken breasts 5lb,Hillside Poultry,2,16.07
+2026-08-20,Basil bunches,GreenLeaf Herbs,7,2.60
+2026-08-20,Sourdough loaves,Dawn Bakery,4,4.41
+2026-08-20,Olive oil 1L,Mediterranean Oils Co,3,20.28
+2026-08-21,Heavy cream pints,Meadow Dairy,3,4.25
+2026-08-21,Chicken breasts 5lb,Hillside Poultry,4,16.19
+2026-08-21,Sourdough loaves,Dawn Bakery,9,4.43
+2026-08-22,Sourdough loaves,Dawn Bakery,6,4.41
+2026-08-22,Heavy cream pints,Meadow Dairy,6,4.25
+2026-08-23,Olive oil 1L,Mediterranean Oils Co,2,20.34
+2026-08-23,Chicken breasts 5lb,Hillside Poultry,2,16.03
+2026-08-23,Sourdough loaves,Dawn Bakery,8,4.40
+2026-08-24,Olive oil 1L,Mediterranean Oils Co,1,20.49
+2026-08-24,Heavy cream pints,Meadow Dairy,4,4.21
+2026-08-24,Chicken breasts 5lb,Hillside Poultry,2,16.01
+2026-08-24,Basil bunches,GreenLeaf Herbs,5,2.66
+2026-08-25,Olive oil 1L,Mediterranean Oils Co,2,19.66
+2026-08-25,Basil bunches,GreenLeaf Herbs,8,2.52
+2026-08-26,Sourdough loaves,Dawn Bakery,7,4.33
+2026-08-26,Heavy cream pints,Meadow Dairy,3,4.12
+2026-08-26,Basil bunches,GreenLeaf Herbs,7,2.56
+2026-08-27,Basil bunches,GreenLeaf Herbs,3,2.64
+2026-08-27,Olive oil 1L,Mediterranean Oils Co,3,20.06
+2026-08-28,Heavy cream pints,Meadow Dairy,5,4.21
+2026-08-28,Roma tomatoes,FreshFarm Produce,9,1.33
+2026-08-29,Heavy cream pints,Meadow Dairy,5,4.23
+2026-08-29,Olive oil 1L,Mediterranean Oils Co,1,19.51
+2026-08-29,Roma tomatoes,FreshFarm Produce,13,1.38
+2026-08-29,Sourdough loaves,Dawn Bakery,10,4.39
+2026-08-31,Basil bunches,GreenLeaf Herbs,8,2.65
+2026-08-31,Sourdough loaves,Dawn Bakery,7,4.50
+2026-09-01,Olive oil 1L,Mediterranean Oils Co,3,19.54
+2026-09-01,Sourdough loaves,Dawn Bakery,6,4.46
+2026-09-02,Heavy cream pints,Meadow Dairy,5,4.21
+2026-09-02,Basil bunches,GreenLeaf Herbs,7,2.67
+2026-09-02,Sourdough loaves,Dawn Bakery,4,4.46
+2026-09-02,Roma tomatoes,FreshFarm Produce,12,1.33
+2026-09-03,Basil bunches,GreenLeaf Herbs,7,2.54
+2026-09-03,Heavy cream pints,Meadow Dairy,6,4.23
+2026-09-03,Olive oil 1L,Mediterranean Oils Co,1,19.94
+2026-09-04,Sourdough loaves,Dawn Bakery,7,4.51
+2026-09-04,Chicken breasts 5lb,Hillside Poultry,4,16.04
+2026-09-04,Basil bunches,GreenLeaf Herbs,7,2.59
+2026-09-05,Sourdough loaves,Dawn Bakery,8,4.57
+2026-09-05,Heavy cream pints,Meadow Dairy,2,4.11
+2026-09-07,Olive oil 1L,Mediterranean Oils Co,2,19.62
+2026-09-07,Sourdough loaves,Dawn Bakery,6,4.43
+2026-09-07,Roma tomatoes,FreshFarm Produce,13,1.33
+2026-09-08,Heavy cream pints,Meadow Dairy,6,4.29
+2026-09-08,Roma tomatoes,FreshFarm Produce,15,1.38
+2026-09-08,Olive oil 1L,Mediterranean Oils Co,2,20.19
+2026-09-08,Sourdough loaves,Dawn Bakery,10,4.33
+2026-09-09,Basil bunches,GreenLeaf Herbs,8,2.55
+2026-09-09,Olive oil 1L,Mediterranean Oils Co,1,20.45
+2026-09-10,Roma tomatoes,FreshFarm Produce,9,1.32
+2026-09-10,Basil bunches,GreenLeaf Herbs,6,2.57
+2026-09-10,Sourdough loaves,Dawn Bakery,5,4.33
+2026-09-10,Chicken breasts 5lb,Hillside Poultry,2,16.20
+2026-09-11,Sourdough loaves,Dawn Bakery,8,4.51
+2026-09-11,Heavy cream pints,Meadow Dairy,3,4.17
+2026-09-12,Heavy cream pints,Meadow Dairy,6,4.27
+2026-09-12,Roma tomatoes,FreshFarm Produce,10,1.32
+2026-09-12,Chicken breasts 5lb,Hillside Poultry,2,15.60
+2026-09-12,Olive oil 1L,Mediterranean Oils Co,3,20.37
