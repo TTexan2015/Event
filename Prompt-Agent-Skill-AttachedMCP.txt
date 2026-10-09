@@ -28,24 +28,49 @@ Do not write the expense logic yet. Do not call any LLM yet. Do not create folde
 =============================
 Step#1B
 =============================
-Update the four existing files in this workspace. Do not create expenses.csv. Do not create extra files. Do not use Azure Foundry. OpenAI only.
+Update the four existing files in this workspace. Do not create expenses.csv. Do not create extra files. Do not use Azure Foundry.
 Do not create or use a virtual environment. Run everything with the system Python only.
 
-Runtime LLM:
+Runtime LLM (this is the only connection change; keep every other behavior):
 - Read LLM_API_KEY from the process environment with os.getenv("LLM_API_KEY"). That variable is already set on this Windows machine. Do not hardcode a key. Do not write a real key into any file.
-- Model id must be exactly: gpt-4o-mini
-- OPENAI_MODEL can live in .env as gpt-4o-mini, or default to gpt-4o-mini in code if unset.
-- Do not use the openai Python package.
-- Do not use httpx or httpx2.
-- Call https://api.openai.com/v1/chat/completions with urllib.request and json.
+- Read LLM_PROVIDER from the process environment with os.getenv("LLM_PROVIDER"). Normalize to lowercase. Accept openai, anthropic, claude (treat claude as anthropic), groq.
+- If LLM_PROVIDER is missing, default to openai.
+- Do not use the openai Python package. Do not use the anthropic package. Do not use httpx or httpx2.
+- Call the provider with urllib.request and json only.
+- Pick the model at runtime from the provider. An optional env LLM_MODEL may override the default. If unset, use the default below.
+
+Provider connection (build this in code; do not hardcode only OpenAI):
+- openai
+  - model default: gpt-4o-mini
+  - POST https://api.openai.com/v1/chat/completions
+  - Headers: Authorization: Bearer <LLM_API_KEY>, Content-Type: application/json
+  - Body: {"model": <model>, "messages": [{"role":"user","content": <prompt>}]}
+  - Read choices[0].message.content
+- anthropic (Claude API key, not the Claude chat subscription)
+  - model default: claude-haiku-4-5
+  - This is the older low-cost Haiku. Do not use Opus or Sonnet.
+  - POST https://api.anthropic.com/v1/messages
+  - Headers: x-api-key: <LLM_API_KEY>, anthropic-version: 2023-06-01, Content-Type: application/json
+  - Body: {"model": <model>, "max_tokens": 400, "messages": [{"role":"user","content": <prompt>}]}
+  - Read content[0].text
+- groq (free-tier key from console.groq.com)
+  - model default: openai/gpt-oss-20b
+  - This model is on the Groq free plan. Do not pick a paid-only model.
+  - POST https://api.groq.com/openai/v1/chat/completions
+  - Headers: Authorization: Bearer <LLM_API_KEY>, Content-Type: application/json
+  - Body: same chat-completions shape as OpenAI
+  - Read choices[0].message.content
+
+One helper in Agent.py must do this routing. Every later LLM call in this project must use that helper. Never print the API key.
 
 --- README.md ---
 Short README:
 - <PROJECT> step 1: hardcoded today's shipment expenses printed in the terminal
 - Run: python Agent.py
-- Uses OpenAI model gpt-4o-mini
+- LLM provider comes from the Windows environment variable LLM_PROVIDER (openai, anthropic, or groq)
 - API key comes from the Windows environment variable LLM_API_KEY
-- LLM call uses urllib, not the openai package
+- Default models: openai gpt-4o-mini, anthropic claude-haiku-4-5, groq openai/gpt-oss-20b
+- LLM call uses urllib, not a provider SDK
 - Later: skill for a nicer table, then MCP + CSV + HTML
 
 --- .gitignore ---
@@ -57,9 +82,9 @@ venv/
 
 --- .env ---
 Only:
-OPENAI_MODEL=gpt-4o-mini
+LLM_PROVIDER=openai
 
-No API key in this file.
+No API key in this file. No model id required. The code picks the cheap default from LLM_PROVIDER.
 
 --- Agent.py ---
 Runnable Python 3. Standard library only (os, json, urllib.request).
@@ -82,15 +107,13 @@ Print a simple terminal report:
 
 Then:
 key = os.getenv("LLM_API_KEY")
-model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+provider = normalize_provider(os.getenv("LLM_PROVIDER"))
 
 If key is missing, print:
 "LLM skipped: LLM_API_KEY is not set in the environment."
 Do not crash.
 
-If key is present, POST JSON to https://api.openai.com/v1/chat/completions
-Headers: Authorization Bearer <key>, Content-Type application/json
-Body: model gpt-4o-mini, one user message that includes the already-computed table and TODAY TOTAL, and asks for two sentences a chef would say about today's delivery spend.
+If key is present, call the provider helper above. Send one user message that includes the already-computed table and TODAY TOTAL, and asks for two sentences a chef would say about today's delivery spend.
 Print the model text under "Chef says:".
 If the HTTP call fails, print "LLM error:" and the status/reason. Do not crash.
 Never print the API key.
@@ -103,7 +126,7 @@ After writing the files, tell me the exact command to run.
 =============================
 Step#2 (Skill)
 =============================
-Step 2 for <PROJECT>. One shot. Edit existing files and add SKILL.md. Do not create expenses.csv. Do not add HTML. Do not add MCP. Do not use Azure Foundry. Do not use the openai pip package. Keep urllib.request for any LLM call.
+Step 2 for <PROJECT>. One shot. Edit existing files and add SKILL.md. Do not create expenses.csv. Do not add HTML. Do not add MCP. Do not use Azure Foundry. Do not use the openai or anthropic pip package. Keep urllib.request for any LLM call.
 Do not create or use a virtual environment. Use the system Python only.
 
 Create SKILL.md in the project root. This skill is the recipe for printing today's shipment as a clean terminal table.
@@ -124,11 +147,11 @@ Update Agent.py:
 3. Print a blank line, then a line of 60 equals signs, then the exact text: Applying the skill now., then another line of 60 equals signs, then a blank line.
 4. Load SKILL.md from the same folder as Agent.py. If the file is missing, print that and stop the formatted section. Do not crash.
 5. Apply the skill rules in Python and print the formatted table. Do not let the LLM invent or change the totals.
-6. Then, if LLM_API_KEY is set, call https://api.openai.com/v1/chat/completions with gpt-4o-mini (or OPENAI_MODEL from env). Send the formatted table plus the skill text. Ask for two sentences a chef would say. Print under "Chef says:". If no key or the call fails, print a short skip/error line. Never print the key. Never crash.
+6. Then, if LLM_API_KEY is set, call the same provider helper from step 1 (LLM_PROVIDER picks openai, anthropic, or groq; default models gpt-4o-mini, claude-haiku-4-5, openai/gpt-oss-20b). Send the formatted table plus the skill text. Ask for two sentences a chef would say. Print under "Chef says:". If no key or the call fails, print a short skip/error line. Never print the key. Never crash.
 
-Update README.md to mention step 2: SKILL.md is loaded by Agent.py and used only for the second, formatted table.
+Update README.md to mention step 2: SKILL.md is loaded by Agent.py and used only for the second, formatted table. Also mention LLM_PROVIDER and LLM_API_KEY.
 
-Leave .env as OPENAI_MODEL=gpt-4o-mini with no key.
+Leave .env as LLM_PROVIDER=openai with no key.
 Leave .gitignore as it is unless .env is missing from it.
 
 After writing the files, tell me to run: python Agent.py
@@ -139,7 +162,7 @@ Step#3 (MCP)
 =============================
 Step 3 for <PROJECT>. One shot. Keep step 1 and step 2 terminal output exactly as they already work. Then add a real local MCP server, three HTML invoices, and a dynamic agent loop.
 
-Do not use reportlab. Do not generate PDF. Do not use Azure Foundry. Do not use the openai pip package. Keep urllib.request for LLM calls. Do not change the hardcoded six shipment items or the skill table.
+Do not use reportlab. Do not generate PDF. Do not use Azure Foundry. Do not use the openai or anthropic pip package. Keep urllib.request for LLM calls. Do not change the hardcoded six shipment items or the skill table.
 
 Never create or use a virtual environment for Python. Install any required packages (e.g. mcp) into the system/user Python only. Run all commands with the system python.
 
@@ -242,13 +265,16 @@ Invoice number, period, line-item table, grand total.
 Footer: Generated by <PROJECT> MCP server
 
 --- tools/llm_tools.py ---
-OPENAI_MODEL=gpt-4o-mini
-LLM_API_KEY from os.getenv first
-POST https://api.openai.com/v1/chat/completions with urllib
-Never print the key
+Same runtime routing as Agent.py. Standard library urllib only.
+Read LLM_API_KEY and LLM_PROVIDER from os.getenv. Default provider openai.
+Defaults: openai gpt-4o-mini, anthropic claude-haiku-4-5, groq openai/gpt-oss-20b.
+Optional LLM_MODEL overrides the default.
+openai and groq: POST chat/completions with Authorization Bearer.
+anthropic: POST https://api.anthropic.com/v1/messages with x-api-key and anthropic-version 2023-06-01.
+Never print the key.
 
 --- <PROJECT>-MCP/.env ---
-OPENAI_MODEL=gpt-4o-mini
+LLM_PROVIDER=openai
 LLM_API_KEY=
 
 --- <PROJECT>-MCP/requirements.txt ---
@@ -256,6 +282,7 @@ mcp
 
 --- Agent.py ---
 Keep step 1 and step 2.
+Keep the same provider helper. Do not go back to a hardcoded OpenAI-only call.
 
 Then print 60 equals signs and:
 Now looking into the MCP server to generate expense invoices.
@@ -267,7 +294,7 @@ Every Agent.py call into the MCP server (the three invoices AND the demo questio
 
 Dynamic loop (same pattern for each user/demo question):
 1. List MCP tools at runtime from the live server (or the fallback tool functions). Print the exact names and a one-line description for each.
-2. Send the question PLUS that live tool list to gpt-4o-mini via urllib.
+2. Send the question PLUS that live tool list to the provider helper (LLM_PROVIDER / LLM_API_KEY).
    Ask for JSON only:
    {"tool":"<exact tool name from the list>","arguments":{...},"done":false}
    or
@@ -315,7 +342,7 @@ Step#4 (Interactive)
 =============================
 Step 4 for <PROJECT>. One shot. Keep step 1, step 2, and step 3 terminal output and behavior exactly as they already work. Then add an interactive menu at the end.
 
-Do not use reportlab. Do not generate PDF. Do not use Azure Foundry. Do not use the openai pip package. Keep urllib.request for LLM calls. Do not change the hardcoded six shipment items or the skill table.
+Do not use reportlab. Do not generate PDF. Do not use Azure Foundry. Do not use the openai or anthropic pip package. Keep urllib.request for LLM calls. Do not change the hardcoded six shipment items or the skill table.
 Never create or use a virtual environment. Use the system Python only.
 
 After the dynamic agent loop finishes, print a blank line, then a line of 60 equals signs, then the exact text:
@@ -344,6 +371,7 @@ If the user chooses 1:
   4. Follow that plan. If it says two or three queries, run them in order, send EACH result back to the LLM, then call the report tool.
   5. Do not set done=true until an HTML file exists on disk with numbers from those query results.
 - Use the same dynamic agent loop as step 3. Tool names must stay discoverable at runtime.
+- The LLM call in that loop is the same provider helper (LLM_API_KEY + LLM_PROVIDER). Do not hardcode OpenAI.
 - Periods are generic from the live CSV dates (see Step 3 period playbook). vs / versus / compare / YEAR A vs YEAR B = two queries then one comparison HTML. Never period="custom". Never "Unknown period".
 - Playbook examples (not a closed list):
   - 2025 / last year → previous year in the file / last_year
@@ -365,7 +393,7 @@ If the user chooses 1:
 If the user chooses 2:
 - Prompt the user to type any question about the expenses / shipments / totals.
 - Use the same dynamic agent loop and period playbook. "vendors used in 2025" → last_year + query_expenses, then count distinct vendors from the result. "loaves bought in 2025" → last_year + item filter that matches loaf and loaves.
-- Send the question (plus any relevant live data from query_expenses if needed) to gpt-4o-mini via urllib.
+- Send the question (plus any relevant live data from query_expenses if needed) through the same provider helper.
 - Print the model reply under "Chef says:".
 - If LLM_API_KEY is missing or the call fails, print a short skip/error line. Never crash. Never print the key.
 
