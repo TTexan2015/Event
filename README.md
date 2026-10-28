@@ -1,4 +1,3 @@
-# !!!!!GET YOUR LAPTOP READY FOR BUILDING AI APPLICATION!!!!!
-Please follow the **Participant Setup Guide**, which includes all the necessary software download links and step-by-step setup instructions to help you get the most out of this session.
-We strongly recommend completing all the steps in advance so your laptop is fully prepared and you can jump straight into the fun of building AI applications!
+# !!!!!Full presentation content is now online here!!!!!
+The full presentation materials are now available on GitHub. You can find the slide deck (PDF), Vibe coding source code, the complete CSV data store, and the participant setup guide with instructions for installing the required software and configuring the environment.
 
